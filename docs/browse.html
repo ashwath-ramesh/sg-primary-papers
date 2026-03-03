@@ -10,7 +10,7 @@
 <body>
   <div class="container">
     <div class="header">
-      <div class="brand"><a class="a" href="index.html" style="font-weight:900">SG Primary Papers</a> <span class="badge">P1</span></div>
+      <div class="brand"><a class="a" href="index.html" style="font-weight:900">SG Primary Papers</a> <span class="badge">Primary</span></div>
       <div class="nav">
         <a href="browse.html">Browse</a>
         <a href="about.html">About</a>
@@ -18,12 +18,16 @@
     </div>
 
     <div class="card">
-      <h2>Browse P1 papers</h2>
+      <h2>Browse papers</h2>
       <div class="row" style="margin-top:10px">
-        <input id="q" class="input" placeholder="Search (e.g., English 2025 WA1, school name…)" />
-        <select id="subject" class="select"></select>
-        <select id="year" class="select"></select>
-        <select id="assessment" class="select"></select>
+        <select id="level" class="select" aria-label="Level">
+          <option value="p1">Primary 1</option>
+          <option value="p2">Primary 2</option>
+        </select>
+        <input id="q" class="input" placeholder="Search (e.g., English 2025 Test 1, school name…)" />
+        <select id="subject" class="select" aria-label="Subject"></select>
+        <select id="year" class="select" aria-label="Year"></select>
+        <select id="assessment" class="select" aria-label="Assessment"></select>
       </div>
       <div class="row" style="margin-top:10px;justify-content:flex-end">
         <div id="count" class="small"></div>

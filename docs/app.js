@@ -1,5 +1,6 @@
-async function loadPapers() {
-  const res = await fetch('./data/papers.p1.json', { cache: 'no-store' });
+async function loadPapers(level) {
+  const file = level === 'p2' ? './data/papers.p2.json' : './data/papers.p1.json';
+  const res = await fetch(file, { cache: 'no-store' });
   if (!res.ok) throw new Error('Failed to load dataset');
   return res.json();
 }
@@ -42,8 +43,7 @@ function renderOptions(select, items, placeholder) {
 }
 
 async function initBrowse() {
-  const papers = await loadPapers();
-
+  const level = byId('level');
   const q = byId('q');
   const subject = byId('subject');
   const year = byId('year');
@@ -51,9 +51,22 @@ async function initBrowse() {
   const tbody = byId('tbody');
   const count = byId('count');
 
-  renderOptions(subject, uniq(papers.map(p => p.subject)).sort(), 'All subjects');
-  renderOptions(year, uniq(papers.map(p => String(p.year))).sort((a,b) => b-a), 'All years');
-  renderOptions(assessment, uniq(papers.map(p => p.assessment)).sort(), 'All assessments');
+  let papers = [];
+
+  async function reload() {
+    papers = await loadPapers(level.value);
+
+    renderOptions(subject, uniq(papers.map(p => p.subject)).sort(), 'All subjects');
+    renderOptions(year, uniq(papers.map(p => String(p.year))).sort((a,b) => b-a), 'All years');
+    renderOptions(assessment, uniq(papers.map(p => p.assessment)).sort(), 'All assessments');
+
+    q.value = '';
+    subject.value = '';
+    year.value = '';
+    assessment.value = '';
+
+    draw();
+  }
 
   function draw() {
     const rows = papers.filter(p => matches(p, q.value, subject.value, year.value, assessment.value));
@@ -73,14 +86,19 @@ async function initBrowse() {
   }
 
   [q, subject, year, assessment].forEach(el => el.addEventListener('input', draw));
-  draw();
+  level.addEventListener('change', reload);
+
+  await reload();
 }
 
 async function initPaper() {
   const params = new URLSearchParams(location.search);
   const id = params.get('id');
-  const papers = await loadPapers();
-  const p = papers.find(x => x.id === id);
+
+  const p1 = await loadPapers('p1');
+  const p2 = await loadPapers('p2');
+  const all = [...p1, ...p2];
+  const p = all.find(x => x.id === id);
 
   const title = byId('title');
   const meta = byId('meta');
