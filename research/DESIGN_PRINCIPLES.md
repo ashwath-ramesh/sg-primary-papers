@@ -96,6 +96,18 @@ If a change conflicts with these principles, the change should be rejected or re
 - New pages must reuse the existing layout primitives:
   - `.container`, `.header`, `.card`, `.row`, `.btn`, `.table`
 
+## UI checklist (must pass before merging)
+For every new/edited page in `/docs`:
+- [ ] Uses `.container`, `.header`, `.card` (no random layouts)
+- [ ] Mobile looks correct at ~390px wide (no horizontal scroll)
+- [ ] Clear purpose in the first screen (no link-dump)
+- [ ] Copy is neutral + direct (no salesy spam tone)
+- [ ] Trust signal present where relevant (link-out only, takedown path)
+- [ ] Buttons are consistent (`.btn` / `.btn.secondary`)
+- [ ] Text contrast remains readable in bright light
+- [ ] Page has `<title>` and (where sensible) a meta description
+- [ ] No heavy libraries/frameworks added for MVP
+
 ## Change control
 - If you change colors/typography/spacing, update both:
   - `docs/styles.css`
