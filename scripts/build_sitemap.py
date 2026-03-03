@@ -9,8 +9,10 @@ BASE = "https://jukebox7398.github.io/sg-primary-papers"
 def main():
     urls = [
         f"{BASE}/",
+        f"{BASE}/start-here.html",
         f"{BASE}/browse.html",
         f"{BASE}/collections.html",
+        f"{BASE}/reliability.html",
         f"{BASE}/about.html",
     ]
 
