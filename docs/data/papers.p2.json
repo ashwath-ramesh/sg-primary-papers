@@ -87,7 +87,7 @@
     "assessmentType": "Quiz",
     "verified": false,
     "lastChecked": "",
-    "topPick": true
+    "topPick": false
   },
   {
     "id": "p2-chinese-2025-term-4-practice-rosyth",
@@ -132,7 +132,7 @@
     "assessmentType": "Other",
     "verified": false,
     "lastChecked": "",
-    "topPick": false
+    "topPick": true
   },
   {
     "id": "p2-english-2025-term-2-revision-maha-bodhi",
@@ -162,7 +162,7 @@
     "assessmentType": "Review",
     "verified": false,
     "lastChecked": "",
-    "topPick": true
+    "topPick": false
   },
   {
     "id": "p2-english-2025-term-4-diagnostic-assessment-rosyth",
@@ -207,7 +207,7 @@
     "assessmentType": "Quiz",
     "verified": false,
     "lastChecked": "",
-    "topPick": true
+    "topPick": false
   },
   {
     "id": "p2-maths-2025-term-1-revision-rosyth",
@@ -222,7 +222,7 @@
     "assessmentType": "Review",
     "verified": false,
     "lastChecked": "",
-    "topPick": false
+    "topPick": true
   },
   {
     "id": "p2-maths-2025-term-1-revision-tao-nan",
@@ -237,7 +237,7 @@
     "assessmentType": "Review",
     "verified": false,
     "lastChecked": "",
-    "topPick": false
+    "topPick": true
   },
   {
     "id": "p2-maths-2025-term-2-st-hilda",
@@ -267,7 +267,7 @@
     "assessmentType": "Review",
     "verified": false,
     "lastChecked": "",
-    "topPick": true
+    "topPick": false
   },
   {
     "id": "p2-maths-2025-term-2-revision-rosyth",
@@ -387,7 +387,7 @@
     "assessmentType": "Quiz",
     "verified": false,
     "lastChecked": "",
-    "topPick": false
+    "topPick": true
   },
   {
     "id": "p2-chinese-2024-quiz-4-5-6-raffles-girls",
@@ -477,7 +477,7 @@
     "assessmentType": "Review",
     "verified": false,
     "lastChecked": "",
-    "topPick": false
+    "topPick": true
   },
   {
     "id": "p2-english-2024-review-2-henry-park",
@@ -627,7 +627,7 @@
     "assessmentType": "Quiz",
     "verified": false,
     "lastChecked": "",
-    "topPick": false
+    "topPick": true
   },
   {
     "id": "p2-maths-2024-quiz-4-5-6-raffles-girls",
@@ -792,7 +792,7 @@
     "assessmentType": "Quiz",
     "verified": false,
     "lastChecked": "",
-    "topPick": false
+    "topPick": true
   },
   {
     "id": "p2-chinese-2023-quiz-1-2-and-3-nanyang",
@@ -1137,7 +1137,7 @@
     "assessmentType": "Test",
     "verified": false,
     "lastChecked": "",
-    "topPick": false
+    "topPick": true
   },
   {
     "id": "p2-english-2023-word-orderred-swastika",
@@ -1497,7 +1497,7 @@
     "assessmentType": "Other",
     "verified": false,
     "lastChecked": "",
-    "topPick": false
+    "topPick": true
   },
   {
     "id": "p2-chinese-2022-mini-test-rulang",
@@ -1632,7 +1632,7 @@
     "assessmentType": "SA",
     "verified": false,
     "lastChecked": "",
-    "topPick": false
+    "topPick": true
   },
   {
     "id": "p2-chinese-2022-semestral-assessment-2-rulang",

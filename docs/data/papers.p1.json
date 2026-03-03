@@ -27,7 +27,7 @@
     "assessmentType": "Quiz",
     "verified": true,
     "lastChecked": "2026-03-03",
-    "topPick": true
+    "topPick": false
   },
   {
     "id": "p1-chinese-2025-quiz-3-henry-park",
@@ -42,7 +42,7 @@
     "assessmentType": "Quiz",
     "verified": true,
     "lastChecked": "2026-03-03",
-    "topPick": true
+    "topPick": false
   },
   {
     "id": "p1-chinese-2025-quiz-4-5-6-henry-park",
@@ -87,7 +87,7 @@
     "assessmentType": "Quiz",
     "verified": true,
     "lastChecked": "2026-03-03",
-    "topPick": true
+    "topPick": false
   },
   {
     "id": "p1-english-2025-quiz-4-5-6-henry-park",
@@ -102,7 +102,7 @@
     "assessmentType": "Quiz",
     "verified": true,
     "lastChecked": "2026-03-03",
-    "topPick": true
+    "topPick": false
   },
   {
     "id": "p1-maths-2025-quiz-1-henry-park",
@@ -132,7 +132,7 @@
     "assessmentType": "Quiz",
     "verified": true,
     "lastChecked": "2026-03-03",
-    "topPick": true
+    "topPick": false
   },
   {
     "id": "p1-maths-2025-quiz-3-henry-park",
@@ -147,7 +147,7 @@
     "assessmentType": "Quiz",
     "verified": true,
     "lastChecked": "2026-03-03",
-    "topPick": true
+    "topPick": false
   },
   {
     "id": "p1-maths-2025-quiz-4-5-6-henry-park",
@@ -222,7 +222,7 @@
     "assessmentType": "Quiz",
     "verified": true,
     "lastChecked": "2026-03-03",
-    "topPick": false
+    "topPick": true
   },
   {
     "id": "p1-english-2024-quiz-3-henry-park",
@@ -252,7 +252,7 @@
     "assessmentType": "Quiz",
     "verified": true,
     "lastChecked": "2026-03-03",
-    "topPick": false
+    "topPick": true
   },
   {
     "id": "p1-english-2024-review-1-henry-park",
@@ -372,7 +372,7 @@
     "assessmentType": "Quiz",
     "verified": true,
     "lastChecked": "2026-03-03",
-    "topPick": false
+    "topPick": true
   },
   {
     "id": "p1-maths-2024-review-1-maha-bodhi",
@@ -447,7 +447,7 @@
     "assessmentType": "Quiz",
     "verified": true,
     "lastChecked": "2026-03-03",
-    "topPick": false
+    "topPick": true
   },
   {
     "id": "p1-chinese-2023-quiz-2-henry-park",
@@ -477,7 +477,7 @@
     "assessmentType": "Quiz",
     "verified": true,
     "lastChecked": "2026-03-03",
-    "topPick": false
+    "topPick": true
   },
   {
     "id": "p1-chinese-2023-quiz-3-henry-park",
@@ -492,7 +492,7 @@
     "assessmentType": "Quiz",
     "verified": true,
     "lastChecked": "2026-03-03",
-    "topPick": false
+    "topPick": true
   },
   {
     "id": "p1-chinese-2023-quiz-3-maha-bodhi",
@@ -567,7 +567,7 @@
     "assessmentType": "Quiz",
     "verified": true,
     "lastChecked": "2026-03-03",
-    "topPick": false
+    "topPick": true
   },
   {
     "id": "p1-english-2023-quiz-2-henry-park",
@@ -1377,7 +1377,7 @@
     "assessmentType": "Test",
     "verified": true,
     "lastChecked": "2026-03-03",
-    "topPick": false
+    "topPick": true
   },
   {
     "id": "p1-english-2022-test-2-acs",
@@ -1392,7 +1392,7 @@
     "assessmentType": "Test",
     "verified": true,
     "lastChecked": "2026-03-03",
-    "topPick": false
+    "topPick": true
   },
   {
     "id": "p1-english-2022-vocabulary-scgs",
@@ -1692,7 +1692,7 @@
     "assessmentType": "Test",
     "verified": false,
     "lastChecked": "",
-    "topPick": false
+    "topPick": true
   },
   {
     "id": "p1-maths-2022-test-1-acs",
@@ -1707,7 +1707,7 @@
     "assessmentType": "Test",
     "verified": false,
     "lastChecked": "",
-    "topPick": false
+    "topPick": true
   },
   {
     "id": "p1-maths-2022-test-2-scgs",
@@ -1722,7 +1722,7 @@
     "assessmentType": "Test",
     "verified": false,
     "lastChecked": "",
-    "topPick": false
+    "topPick": true
   },
   {
     "id": "p1-maths-2022-test-3-acs",
