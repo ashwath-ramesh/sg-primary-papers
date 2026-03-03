@@ -34,6 +34,7 @@
       return res.json();
     }
     function buildUrl(c){
+      if (c.id === 'top-picks') return 'browse.html?top=1';
       const p = new URLSearchParams();
       if (c.level) p.set('level', c.level);
       if (c.subject) p.set('subject', c.subject);
@@ -51,8 +52,22 @@
       cols.forEach(c=>{
         const li = document.createElement('li');
         li.style.margin = '10px 0';
-        li.innerHTML = `<a class="a" href="${buildUrl(c)}">${c.title}</a>`;
+        const url = buildUrl(c);
+        li.innerHTML = `
+          <a class="a" href="${url}">${c.title}</a>
+          <button class="btn secondary" type="button" style="padding:8px 10px;margin-left:10px" data-copy="${url}">Copy link</button>
+        `;
         ul.appendChild(li);
+      });
+
+      ul.addEventListener('click', async (e)=>{
+        const b = e.target.closest('button[data-copy]');
+        if (!b) return;
+        const rel = b.getAttribute('data-copy');
+        const full = new URL(rel, location.href).toString();
+        await navigator.clipboard.writeText(full);
+        b.textContent = 'Copied';
+        setTimeout(()=>b.textContent='Copy link', 1200);
       });
       el.appendChild(ul);
     })().catch(err=>alert(err.message));

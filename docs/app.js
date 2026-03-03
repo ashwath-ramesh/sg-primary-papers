@@ -54,10 +54,12 @@ async function initBrowse() {
   let papers = [];
 
   // Allow shareable pre-filtered links: browse.html?level=p2&subject=Maths&year=latest&type=Quiz
+  let topOnly = false;
   {
     const params = new URLSearchParams(location.search);
     const pLevel = params.get('level');
     if (pLevel === 'p1' || pLevel === 'p2') level.value = pLevel;
+    topOnly = params.get('top') === '1';
   }
 
   function applyParams() {
@@ -101,8 +103,22 @@ async function initBrowse() {
     draw();
   }
 
+  function syncUrl() {
+    const p = new URLSearchParams();
+    p.set('level', level.value);
+    if (subject.value) p.set('subject', subject.value);
+    if (year.value) p.set('year', year.value);
+    if (atype.value) p.set('type', atype.value);
+    if (topOnly) p.set('top', '1');
+    const next = `${location.pathname}?${p.toString()}`;
+    history.replaceState({}, '', next);
+  }
+
   function draw() {
-    const rows = papers.filter(p => matches(p, q.value, subject.value, year.value, atype.value));
+    syncUrl();
+    const rows = papers
+      .filter(p => !topOnly || p.topPick)
+      .filter(p => matches(p, q.value, subject.value, year.value, atype.value));
     count.textContent = `${rows.length} result${rows.length === 1 ? '' : 's'}`;
     tbody.innerHTML = '';
 
@@ -132,6 +148,17 @@ async function initBrowse() {
   chip('chip-english', 'English');
   chip('chip-maths', 'Maths');
   chip('chip-chinese', 'Chinese');
+
+  const copyBtn = byId('copyLink');
+  if (copyBtn && navigator.clipboard) {
+    copyBtn.addEventListener('click', async () => {
+      // Ensure URL reflects current filters
+      draw();
+      await navigator.clipboard.writeText(location.href);
+      copyBtn.textContent = 'Copied';
+      setTimeout(() => (copyBtn.textContent = 'Copy link'), 1200);
+    });
+  }
 
   level.addEventListener('change', () => reload({ resetFilters: true }));
 

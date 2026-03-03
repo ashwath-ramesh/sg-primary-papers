@@ -1,26 +1,17 @@
 [
-  {
-    "id": "p1-english-latest",
-    "title": "Primary 1 English — Latest year",
-    "level": "p1",
-    "subject": "English",
-    "year": "latest",
-    "type": ""
-  },
-  {
-    "id": "p2-maths-latest",
-    "title": "Primary 2 Maths — Latest year",
-    "level": "p2",
-    "subject": "Maths",
-    "year": "latest",
-    "type": ""
-  },
-  {
-    "id": "p2-chinese-quiz",
-    "title": "Primary 2 Chinese — Quizzes",
-    "level": "p2",
-    "subject": "Chinese",
-    "year": "",
-    "type": "Quiz"
-  }
+  {"id":"p1-english-latest","title":"Primary 1 English — Latest year","level":"p1","subject":"English","year":"latest","type":""},
+  {"id":"p1-english-quiz-latest","title":"Primary 1 English — Quizzes (latest year)","level":"p1","subject":"English","year":"latest","type":"Quiz"},
+  {"id":"p1-maths-latest","title":"Primary 1 Maths — Latest year","level":"p1","subject":"Maths","year":"latest","type":""},
+  {"id":"p1-maths-test-latest","title":"Primary 1 Maths — Tests (latest year)","level":"p1","subject":"Maths","year":"latest","type":"Test"},
+  {"id":"p1-chinese-latest","title":"Primary 1 Chinese — Latest year","level":"p1","subject":"Chinese","year":"latest","type":""},
+  {"id":"p1-chinese-quiz-latest","title":"Primary 1 Chinese — Quizzes (latest year)","level":"p1","subject":"Chinese","year":"latest","type":"Quiz"},
+
+  {"id":"p2-english-latest","title":"Primary 2 English — Latest year","level":"p2","subject":"English","year":"latest","type":""},
+  {"id":"p2-english-sa-latest","title":"Primary 2 English — SA (latest year)","level":"p2","subject":"English","year":"latest","type":"SA"},
+  {"id":"p2-maths-latest","title":"Primary 2 Maths — Latest year","level":"p2","subject":"Maths","year":"latest","type":""},
+  {"id":"p2-maths-quiz-latest","title":"Primary 2 Maths — Quizzes (latest year)","level":"p2","subject":"Maths","year":"latest","type":"Quiz"},
+  {"id":"p2-chinese-latest","title":"Primary 2 Chinese — Latest year","level":"p2","subject":"Chinese","year":"latest","type":""},
+  {"id":"p2-chinese-quiz","title":"Primary 2 Chinese — Quizzes","level":"p2","subject":"Chinese","year":"","type":"Quiz"},
+
+  {"id":"top-picks","title":"Top picks — curated shortlist","level":"","subject":"","year":"","type":""}
 ]
