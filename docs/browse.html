@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Browse — P1 Papers</title>
+  <meta name="description" content="Browse Primary 1 papers by subject, year, assessment, school." />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <div class="brand"><a class="a" href="index.html" style="font-weight:900">SG Primary Papers</a> <span class="badge">P1</span></div>
+      <div class="nav">
+        <a href="browse.html">Browse</a>
+        <a href="about.html">About</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>Browse P1 papers</h2>
+      <div class="row" style="margin-top:10px">
+        <input id="q" class="input" placeholder="Search (e.g., English 2025 WA1, school name…)" />
+        <select id="subject" class="select"></select>
+        <select id="year" class="select"></select>
+        <select id="assessment" class="select"></select>
+      </div>
+      <div class="row" style="margin-top:10px;justify-content:space-between">
+        <div class="pill">Scope: <b>P1 only</b> • Policy: <b>link-out only</b></div>
+        <div id="count" class="small"></div>
+      </div>
+    </div>
+
+    <div class="card" style="margin-top:14px">
+      <table class="table">
+        <thead>
+          <tr>
+            <th>Paper</th>
+            <th>Year</th>
+            <th>Assessment</th>
+            <th>Answers</th>
+          </tr>
+        </thead>
+        <tbody id="tbody"></tbody>
+      </table>
+      <div class="footer">Tip: click a paper to view details + source link.</div>
+    </div>
+
+    <div class="footer">If you spot a broken link, we’ll fix it fast.</div>
+  </div>
+
+  <script src="./app.js"></script>
+  <script>initBrowse().catch(err => alert(err.message));</script>
+</body>
+</html>

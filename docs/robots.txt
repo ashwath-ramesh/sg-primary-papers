@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jukebox7398.github.io/sg-primary-papers/sitemap.xml

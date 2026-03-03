@@ -3,37 +3,50 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Singapore Papers — Research</title>
-  <style>
-    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;max-width:900px;margin:40px auto;padding:0 16px;line-height:1.5}
-    header{margin-bottom:24px}
-    code{background:#f4f4f4;padding:2px 6px;border-radius:6px}
-    a{color:#0b5fff}
-    .card{border:1px solid #e6e6e6;border-radius:12px;padding:16px;margin:12px 0}
-  </style>
+  <title>SG Primary Papers — P1 MVP</title>
+  <meta name="description" content="Clean, fast index of Singapore Primary 1 exam/test papers (link-out only)." />
+  <link rel="stylesheet" href="./styles.css" />
 </head>
 <body>
-  <header>
-    <h1>Singapore Papers — Research & Build Notes</h1>
-    <p>Working notes for a new, more polished website inspired by <code>sgexam.com</code> and <code>sgtestpaper.com</code>.</p>
-  </header>
+  <div class="container">
+    <div class="header">
+      <div class="brand">SG Primary Papers <span class="badge">MVP • P1 only</span></div>
+      <div class="nav">
+        <a href="browse.html">Browse</a>
+        <a href="about.html">About</a>
+        <a href="../research/NOTES.md">Research</a>
+      </div>
+    </div>
 
-  <div class="card">
-    <h2>Start here</h2>
-    <ul>
-      <li><a href="../research/NOTES.md">Research notes</a></li>
-      <li><a href="../research/SITEMAP.md">Proposed sitemap</a></li>
-      <li><a href="../research/CONTENT_MODEL.md">Content model</a></li>
-    </ul>
-  </div>
+    <div class="hero">
+      <h1 class="h1">Find Primary 1 papers without the mess.</h1>
+      <p class="sub">A calm, mobile-first index for Singapore parents. MVP is <b>P1 only</b> and <b>link-out only</b>.</p>
+    </div>
 
-  <div class="card">
-    <h2>Principles</h2>
-    <ul>
-      <li>Fast search + filters (Level → Subject → Year → Assessment → School)</li>
-      <li>Clean UX (no link-dumps), mobile-first</li>
-      <li>Transparent sourcing + copyright-respecting</li>
-    </ul>
+    <div class="grid">
+      <div class="card">
+        <h2>Quick start</h2>
+        <div class="row">
+          <a class="btn" href="browse.html">Browse P1 papers</a>
+          <a class="btn secondary" href="about.html">How this works</a>
+        </div>
+        <div class="footer">We don’t host PDFs in the MVP. We index metadata and link to sources.</div>
+      </div>
+
+      <div class="card">
+        <h2>MVP status</h2>
+        <div class="kpis">
+          <div class="kpi"><div class="n">P1</div><div class="l">Level scope</div></div>
+          <div class="kpi"><div class="n">Link-out</div><div class="l">Content policy</div></div>
+          <div class="kpi"><div class="n">Fast</div><div class="l">Mobile-first</div></div>
+        </div>
+        <div class="notice" style="margin-top:10px">
+          Next: curate real P1 entries (English/Maths/Science/Chinese) with clean metadata.
+        </div>
+      </div>
+    </div>
+
+    <div class="footer">© SG Primary Papers (MVP). Not affiliated with any source sites.</div>
   </div>
 </body>
 </html>

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "p1-english-2025-sample-001",
+    "level": "P1",
+    "subject": "English",
+    "year": 2025,
+    "assessment": "Prelim",
+    "school": "Example School",
+    "hasAnswers": true,
+    "sourceUrl": "https://www.sgtestpaper.com/p1/",
+    "notes": "MVP sample entry (link-out only). Replace with curated real entries."
+  },
+  {
+    "id": "p1-maths-2025-sample-001",
+    "level": "P1",
+    "subject": "Maths",
+    "year": 2025,
+    "assessment": "WA1",
+    "school": "Example School",
+    "hasAnswers": true,
+    "sourceUrl": "https://sgexam.com/",
+    "notes": "MVP sample entry (link-out only)."
+  }
+]
