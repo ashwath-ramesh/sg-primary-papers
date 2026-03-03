@@ -66,7 +66,7 @@ async function initBrowse() {
         <td><a class="a" href="paper.html?id=${encodeURIComponent(p.id)}">${p.subject}</a><div class="small">${p.school}</div></td>
         <td>${p.year}</td>
         <td>${p.assessment}</td>
-        <td>${p.hasAnswers ? 'Yes' : 'No'}</td>
+        <td>${p.hasAnswers === true ? 'Yes' : (p.hasAnswers === false ? 'No' : '—')}</td>
       `;
       tbody.appendChild(tr);
     });
@@ -96,7 +96,8 @@ async function initPaper() {
   }
 
   title.textContent = `${p.level} ${p.subject} (${p.year})`;
-  meta.textContent = `${p.assessment} • ${p.school} • Answers: ${p.hasAnswers ? 'Yes' : 'No'}`;
+  const ans = (p.hasAnswers === true ? 'Yes' : (p.hasAnswers === false ? 'No' : 'Unknown'));
+  meta.textContent = `${p.assessment} • ${p.school} • Answers: ${ans}`;
   link.href = p.sourceUrl;
   link.textContent = 'Go to source link';
   notes.textContent = p.notes || '';
