@@ -30,6 +30,11 @@ def main():
         rel = p.relative_to('docs')
         urls.append(f"{BASE}/{rel.as_posix()}")
 
+    # FAQ / guides
+    for p in sorted(Path('docs/faq').glob('**/index.html')):
+        rel = p.relative_to('docs')
+        urls.append(f"{BASE}/{rel.as_posix()}")
+
     papers_dir = Path('docs/papers')
     if papers_dir.exists():
         for p in sorted(papers_dir.glob('*.html')):

@@ -23,23 +23,23 @@ DATA = {
 # intent_key -> (title_template, description_template, browse_params)
 INTENTS = {
     'past-year-papers': (
-        'Primary {n} {subject} Past Year Papers (Free Download) — SG Primary Papers',
-        'Browse Primary {n} {subject} past year papers in Singapore. Filter by year, assessment type and school. Free downloads where available.',
+        'Singapore Primary {n} {subject} Past Year Papers (Free Download) — SG Primary Papers',
+        'Browse Singapore Primary {n} {subject} past year papers. Filter by year, assessment type and school. Free downloads where available.',
         lambda level, subject: f'level={level}&subject={subject}',
     ),
     'free-test-papers': (
-        'Primary {n} {subject} Test Papers (Free Download) — SG Primary Papers',
-        'Browse Primary {n} {subject} test papers in Singapore. Free downloads where available. Filter by year and school.',
+        'Singapore Primary {n} {subject} Test Papers (Free Download) — SG Primary Papers',
+        'Browse Singapore Primary {n} {subject} test papers. Free downloads where available. Filter by year and school.',
         lambda level, subject: f'level={level}&subject={subject}&type=Test',
     ),
     'free-quiz-papers': (
-        'Primary {n} {subject} Quiz Papers (Free Download) — SG Primary Papers',
-        'Browse Primary {n} {subject} quiz papers in Singapore. Free downloads where available. Filter by year and school.',
+        'Singapore Primary {n} {subject} Quiz Papers (Free Download) — SG Primary Papers',
+        'Browse Singapore Primary {n} {subject} quiz papers. Free downloads where available. Filter by year and school.',
         lambda level, subject: f'level={level}&subject={subject}&type=Quiz',
     ),
     'latest-papers': (
-        'Primary {n} {subject} Papers (Latest Year) — SG Primary Papers',
-        'Browse the latest available Primary {n} {subject} papers in Singapore. Filter by assessment type and school.',
+        'Singapore Primary {n} {subject} Papers (Latest Available) — SG Primary Papers',
+        'Browse the latest available Singapore Primary {n} {subject} papers. Filter by assessment type and school.',
         lambda level, subject: f'level={level}&subject={subject}&year=latest',
     ),
 }
@@ -80,6 +80,7 @@ def write_page(level: str, subject: str, intent_key: str, years):
   <title>{title}</title>
   <meta name="description" content="{desc}" />
   <link rel="stylesheet" href="{css}" />
+  <script defer src="https://analytics.millisecondlabs.com/script.js" data-website-id="620b5939-4f56-49f3-9eac-0141f805d3a5"></script>
 </head>
 <body>
   <div class="container">

@@ -15,6 +15,7 @@ TEMPLATE = '''<!doctype html>
   <title>{title}</title>
   <meta name="description" content="{desc}" />
   <link rel="stylesheet" href="../styles.css" />
+  <script defer src="https://analytics.millisecondlabs.com/script.js" data-website-id="620b5939-4f56-49f3-9eac-0141f805d3a5"></script>
 </head>
 <body>
   <div class="container">
@@ -56,9 +57,10 @@ def main():
   for path, badge in DATA_FILES:
     papers = json.loads(Path(path).read_text())
     for p in papers:
-      title = f"{p['level']} {p['subject']} {p['year']} — {p['school']}"
-      desc = f"{p['level']} {p['subject']} {p['year']} ({p.get('assessment','')}) source link."
-      meta = f"{p.get('assessment','')} • {p.get('school','')} • {p.get('year','')}"
+      assessment = (p.get('assessment') or '').strip()
+      title = f"Singapore {p['level']} {p['subject']} {p['year']} {assessment} — {p['school']} | SG Primary Papers".replace('  ', ' ').strip()
+      desc = f"Source link for Singapore {p['level']} {p['subject']} {p['year']} {assessment} from {p.get('school','')}. We don’t host PDFs.".replace('  ', ' ').strip()
+      meta = f"{assessment} • {p.get('school','')} • {p.get('year','')}".strip(' •')
       verified = 'Verified link' if p.get('verified') else 'Not verified yet'
       checked = p.get('lastChecked') or ''
       ans = ( 'Yes' if p.get('hasAnswers') is True else ('No' if p.get('hasAnswers') is False else 'Unknown') )
