@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Collections — SG Primary Papers</title>
+  <meta name="description" content="Curated collections of Primary papers for quick practice." />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <div class="brand"><a class="a" href="index.html" style="font-weight:900">SG Primary Papers</a> <span class="badge">Collections</span></div>
+      <div class="nav">
+        <a href="browse.html">Browse</a>
+        <a href="collections.html">Collections</a>
+        <a href="about.html">About</a>
+      </div>
+    </div>
+
+    <div class="hero">
+      <h1 class="h1" style="font-size:34px">Curated collections</h1>
+      <p class="sub">Quick links that parents can share. Clean, focused, no fluff.</p>
+    </div>
+
+    <div id="list" class="card"></div>
+
+    <div class="footer">More collections will be added over time.</div>
+  </div>
+
+  <script>
+    async function loadCollections(){
+      const res = await fetch('./data/collections.json', {cache:'no-store'});
+      return res.json();
+    }
+    function buildUrl(c){
+      const p = new URLSearchParams();
+      if (c.level) p.set('level', c.level);
+      if (c.subject) p.set('subject', c.subject);
+      if (c.type) p.set('type', c.type);
+      if (c.year) p.set('year', c.year);
+      return `browse.html?${p.toString()}`;
+    }
+    (async ()=>{
+      const cols = await loadCollections();
+      const el = document.getElementById('list');
+      el.innerHTML = '<h2>Pick one</h2>';
+      const ul = document.createElement('ul');
+      ul.style.margin = '0';
+      ul.style.paddingLeft = '18px';
+      cols.forEach(c=>{
+        const li = document.createElement('li');
+        li.style.margin = '10px 0';
+        li.innerHTML = `<a class="a" href="${buildUrl(c)}">${c.title}</a>`;
+        ul.appendChild(li);
+      });
+      el.appendChild(ul);
+    })().catch(err=>alert(err.message));
+  </script>
+</body>
+</html>

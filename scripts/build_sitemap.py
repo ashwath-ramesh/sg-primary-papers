@@ -10,8 +10,15 @@ def main():
     urls = [
         f"{BASE}/",
         f"{BASE}/browse.html",
+        f"{BASE}/collections.html",
         f"{BASE}/about.html",
     ]
+
+    # Level/subject landing pages
+    for p in sorted(Path('docs/p1').glob('*.html')):
+        urls.append(f"{BASE}/p1/{p.name}")
+    for p in sorted(Path('docs/p2').glob('*.html')):
+        urls.append(f"{BASE}/p2/{p.name}")
 
     papers_dir = Path('docs/papers')
     if papers_dir.exists():

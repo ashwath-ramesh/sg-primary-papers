@@ -53,7 +53,35 @@ async function initBrowse() {
 
   let papers = [];
 
-  async function reload() {
+  // Allow shareable pre-filtered links: browse.html?level=p2&subject=Maths&year=latest&type=Quiz
+  {
+    const params = new URLSearchParams(location.search);
+    const pLevel = params.get('level');
+    if (pLevel === 'p1' || pLevel === 'p2') level.value = pLevel;
+  }
+
+  function applyParams() {
+    const params = new URLSearchParams(location.search);
+    const pSubject = params.get('subject') || '';
+    const pYear = params.get('year') || '';
+    const pType = params.get('type') || '';
+
+    if (pSubject) subject.value = pSubject;
+
+    if (pYear) {
+      if (pYear === 'latest') {
+        const ys = papers.map(p => Number(p.year)).filter(Boolean);
+        const latest = ys.length ? String(Math.max(...ys)) : '';
+        if (latest) year.value = latest;
+      } else {
+        year.value = pYear;
+      }
+    }
+
+    if (pType) atype.value = pType;
+  }
+
+  async function reload({ resetFilters = true } = {}) {
     papers = await loadPapers(level.value);
 
     renderOptions(subject, uniq(papers.map(p => p.subject)).sort(), 'All subjects');
@@ -62,11 +90,14 @@ async function initBrowse() {
     const types = uniq(papers.map(p => p.assessmentType)).sort((a,b) => order.indexOf(a) - order.indexOf(b));
     renderOptions(atype, types, 'All types');
 
-    q.value = '';
-    subject.value = '';
-    year.value = '';
-    atype.value = '';
+    if (resetFilters) {
+      q.value = '';
+      subject.value = '';
+      year.value = '';
+      atype.value = '';
+    }
 
+    applyParams();
     draw();
   }
 
@@ -88,9 +119,24 @@ async function initBrowse() {
   }
 
   [q, subject, year, atype].forEach(el => el.addEventListener('input', draw));
-  level.addEventListener('change', reload);
 
-  await reload();
+  const chip = (id, value) => {
+    const el = byId(id);
+    if (!el) return;
+    el.addEventListener('click', () => {
+      subject.value = value;
+      draw();
+    });
+  };
+  chip('chip-all', '');
+  chip('chip-english', 'English');
+  chip('chip-maths', 'Maths');
+  chip('chip-chinese', 'Chinese');
+
+  level.addEventListener('change', () => reload({ resetFilters: true }));
+
+  // Initial load: keep URL params if present.
+  await reload({ resetFilters: false });
 }
 
 async function initPaper() {
