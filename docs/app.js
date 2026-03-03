@@ -17,10 +17,10 @@ function normalize(s) {
   return String(s ?? '').toLowerCase().trim();
 }
 
-function matches(p, q, subject, year, assessment) {
+function matches(p, q, subject, year, assessmentType) {
   if (subject && p.subject !== subject) return false;
   if (year && String(p.year) !== String(year)) return false;
-  if (assessment && p.assessment !== assessment) return false;
+  if (assessmentType && (p.assessmentType || '') !== assessmentType) return false;
 
   if (!q) return true;
   const hay = normalize([p.level, p.subject, p.year, p.assessment, p.school, p.id].join(' '));
@@ -47,7 +47,7 @@ async function initBrowse() {
   const q = byId('q');
   const subject = byId('subject');
   const year = byId('year');
-  const assessment = byId('assessment');
+  const atype = byId('atype');
   const tbody = byId('tbody');
   const count = byId('count');
 
@@ -58,18 +58,20 @@ async function initBrowse() {
 
     renderOptions(subject, uniq(papers.map(p => p.subject)).sort(), 'All subjects');
     renderOptions(year, uniq(papers.map(p => String(p.year))).sort((a,b) => b-a), 'All years');
-    renderOptions(assessment, uniq(papers.map(p => p.assessment)).sort(), 'All assessments');
+    const order = ['SA','CA','WA','Test','Quiz','Review','Other'];
+    const types = uniq(papers.map(p => p.assessmentType)).sort((a,b) => order.indexOf(a) - order.indexOf(b));
+    renderOptions(atype, types, 'All types');
 
     q.value = '';
     subject.value = '';
     year.value = '';
-    assessment.value = '';
+    atype.value = '';
 
     draw();
   }
 
   function draw() {
-    const rows = papers.filter(p => matches(p, q.value, subject.value, year.value, assessment.value));
+    const rows = papers.filter(p => matches(p, q.value, subject.value, year.value, atype.value));
     count.textContent = `${rows.length} result${rows.length === 1 ? '' : 's'}`;
     tbody.innerHTML = '';
 
@@ -85,7 +87,7 @@ async function initBrowse() {
     });
   }
 
-  [q, subject, year, assessment].forEach(el => el.addEventListener('input', draw));
+  [q, subject, year, atype].forEach(el => el.addEventListener('input', draw));
   level.addEventListener('change', reload);
 
   await reload();
