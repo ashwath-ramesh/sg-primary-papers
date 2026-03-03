@@ -63,7 +63,7 @@ async function initBrowse() {
     rows.forEach(p => {
       const tr = document.createElement('tr');
       tr.innerHTML = `
-        <td><a class="a" href="paper.html?id=${encodeURIComponent(p.id)}">${p.subject}</a><div class="small">${p.school}</div></td>
+        <td><a class="a" href="papers/${encodeURIComponent(p.id)}.html">${p.subject}</a><div class="small">${p.school}</div></td>
         <td>${p.year}</td>
         <td>${p.assessment}</td>
         <td>${p.hasAnswers === true ? 'Yes' : (p.hasAnswers === false ? 'No' : '—')}</td>
@@ -95,10 +95,6 @@ async function initPaper() {
     return;
   }
 
-  title.textContent = `${p.level} ${p.subject} (${p.year})`;
-  const ans = (p.hasAnswers === true ? 'Yes' : (p.hasAnswers === false ? 'No' : 'Unknown'));
-  meta.textContent = `${p.assessment} • ${p.school} • Answers: ${ans}`;
-  link.href = p.sourceUrl;
-  link.textContent = 'Go to source link';
-  notes.textContent = p.notes || '';
+  // Legacy support: redirect old query-param URLs to the shareable static page.
+  location.replace(`papers/${encodeURIComponent(p.id)}.html`);
 }
