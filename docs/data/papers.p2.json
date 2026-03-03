@@ -9,7 +9,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2025-p2-chinese-practice-1-st-hilda-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2025-practice-3-st-hilda",
@@ -21,7 +24,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2025-p2-chinese-practice-3-st-hilda-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2025-practice-4-st-hilda",
@@ -33,7 +39,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2025-p2-chinese-practice-4-st-hilda-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2025-quiz-1-and-2-henry-park",
@@ -45,7 +54,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2025-p2-chinese-quiz-1-and-2-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Quiz"
+    "assessmentType": "Quiz",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": true
   },
   {
     "id": "p2-chinese-2025-quiz-2-rosyth",
@@ -57,7 +69,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2025-p2-chinese-quiz-2-rosyth-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Quiz"
+    "assessmentType": "Quiz",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": true
   },
   {
     "id": "p2-chinese-2025-quiz-4-5-6-henry-park",
@@ -69,7 +84,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2025-p2-chinese-quiz-4_5_6-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Quiz"
+    "assessmentType": "Quiz",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": true
   },
   {
     "id": "p2-chinese-2025-term-4-practice-rosyth",
@@ -81,7 +99,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2025-p2-chinese-term-4-practice-rosyth-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2025-quiz-4-5-6-henry-park",
@@ -93,7 +114,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2025-p2-english-quiz-4_5_6-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Quiz"
+    "assessmentType": "Quiz",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": true
   },
   {
     "id": "p2-english-2025-term-2-diagnostic-assessment-rosyth",
@@ -105,7 +129,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2025-p2-english-term-2-diagnostic-assessment-rosyth-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2025-term-2-revision-maha-bodhi",
@@ -117,7 +144,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2025-p2-english-term-2-revision-maha-bodhi-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": true
   },
   {
     "id": "p2-english-2025-term-3-revision-maha-bodhi",
@@ -129,7 +159,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2025-p2-english-term-3-revision-maha-bodhi-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": true
   },
   {
     "id": "p2-english-2025-term-4-diagnostic-assessment-rosyth",
@@ -141,7 +174,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2025-p2-english-term-4-diagnostic-assessment-rosyth-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2025-quiz-2-henry-park",
@@ -153,7 +189,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2025-p2-maths-quiz-2-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Quiz"
+    "assessmentType": "Quiz",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": true
   },
   {
     "id": "p2-maths-2025-quiz-4-5-6-henry-park",
@@ -165,7 +204,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2025-p2-maths-quiz-4_5_6-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Quiz"
+    "assessmentType": "Quiz",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": true
   },
   {
     "id": "p2-maths-2025-term-1-revision-rosyth",
@@ -177,7 +219,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2025-p2-maths-term-1-revision-rosyth-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2025-term-1-revision-tao-nan",
@@ -189,7 +234,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2025-p2-maths-term-1-revision-tao-nan-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2025-term-2-st-hilda",
@@ -201,7 +249,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2025-p2-maths-term-2-st-hilda-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2025-term-2-revision-maha-bodhi",
@@ -213,7 +264,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2025-p2-maths-term-2-revision-maha-bodhi-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": true
   },
   {
     "id": "p2-maths-2025-term-2-revision-rosyth",
@@ -225,7 +279,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2025-p2-maths-term-2-revision-rosyth-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2025-term-2-revision-tao-nan",
@@ -237,7 +294,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2025-p2-maths-term-2-revision-tao-nan-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2025-term-3-revision-maha-bodhi",
@@ -249,7 +309,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2025-p2-maths-term-3-revision-maha-bodhi-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2025-term-3-revision-rosyth",
@@ -261,7 +324,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2025-p2-maths-term-3-revision-rosyth-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2025-term-4-st-hilda",
@@ -273,7 +339,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2025-p2-maths-term-4-st-hilda-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2025-term-4-revision-1-rosyth",
@@ -285,7 +354,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2025-p2-maths-term-4-revision-1-rosyth-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2025-term-4-revision-2-rosyth",
@@ -297,7 +369,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2025-p2-maths-term-4-revision-2-rosyth-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2024-quiz-1-2-3-raffles-girls",
@@ -309,7 +384,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2024-p2-chinese-quiz-1_2_3-raffles-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Quiz"
+    "assessmentType": "Quiz",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2024-quiz-4-5-6-raffles-girls",
@@ -321,7 +399,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2024-p2-chinese-quiz-4_5_6-raffles-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Quiz"
+    "assessmentType": "Quiz",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2024-quiz-7-8-9-raffles-girls",
@@ -333,7 +414,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2024-p2-chinese-quiz-7_8_9-raffles-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Quiz"
+    "assessmentType": "Quiz",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2024-review-1-and-2-henry-park",
@@ -345,7 +429,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2024-p2-chinese-review-1-and-2-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2024-review-4-henry-park",
@@ -357,7 +444,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2024-p2-chinese-review-4-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2024-review-1-henry-park",
@@ -369,7 +459,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2024-p2-english-review-1-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2024-review-1-and-2-raffles-girls",
@@ -381,7 +474,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2024-p2-english-review-1-and-2-raffles-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2024-review-2-henry-park",
@@ -393,7 +489,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2024-p2-english-review-2-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2024-review-3-henry-park",
@@ -405,7 +504,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2024-p2-english-review-3-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2024-review-3-and-4-raffles-girls",
@@ -417,7 +519,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2024-p2-english-review-3-and-4-raffles-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2024-review-5-6-7-raffles-girls",
@@ -429,7 +534,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2024-p2-english-review-5_6_7-raffles-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2024-quiz-1-henry-park",
@@ -441,7 +549,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2024-p2-maths-quiz-1-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Quiz"
+    "assessmentType": "Quiz",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2024-quiz-1-and-2-raffles-girls",
@@ -453,7 +564,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2024-p2-maths-quiz-1-and-2-raffles-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Quiz"
+    "assessmentType": "Quiz",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2024-quiz-1-2-3-raffles-girls",
@@ -465,7 +579,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2024-p2-maths-quiz-1_2_3-raffles-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Quiz"
+    "assessmentType": "Quiz",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2024-quiz-2-henry-park",
@@ -477,7 +594,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2024-p2-maths-quiz-2-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Quiz"
+    "assessmentType": "Quiz",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2024-quiz-3-henry-park",
@@ -489,7 +609,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2024-p2-maths-quiz-3-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Quiz"
+    "assessmentType": "Quiz",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2024-quiz-4-5-6-henry-park",
@@ -501,7 +624,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2024-p2-maths-quiz-4_5_6-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Quiz"
+    "assessmentType": "Quiz",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2024-quiz-4-5-6-raffles-girls",
@@ -513,7 +639,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2024-p2-maths-quiz-4_5_6-raffles-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Quiz"
+    "assessmentType": "Quiz",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2024-quiz-7-8-9-raffles-girls",
@@ -525,7 +654,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2024-p2-maths-quiz-7_8_9-raffles-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Quiz"
+    "assessmentType": "Quiz",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2023-comprehension-1-nanyang",
@@ -537,7 +669,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2023-p2-chinese-comprehension-1-nanyang-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2023-comprehension-2-nanyang",
@@ -549,7 +684,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2023-p2-chinese-comprehension-2-nanyang-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2023-mini-test-1-scgs",
@@ -561,7 +699,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2023-p2-chinese-mini-test-1-scgs-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2023-mini-test-2-scgs",
@@ -573,7 +714,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2023-p2-chinese-mini-test-2-scgs-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2023-practice-1-rosyth",
@@ -585,7 +729,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2023-p2-chinese-practice-1-rosyth-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2023-practice-1-and-2-st-hilda",
@@ -597,7 +744,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2023-p2-chinese-practice-1-and-2-st-hilda-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2023-practice-3-st-hilda",
@@ -609,7 +759,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2023-p2-chinese-practice-3-st-hilda-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2023-quiz-1-henry-park",
@@ -621,7 +774,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2023-p2-chinese-quiz-1-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Quiz"
+    "assessmentType": "Quiz",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2023-quiz-1-maha-bodhi",
@@ -633,7 +789,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2023-p2-chinese-quiz-1-maha-bodhi-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Quiz"
+    "assessmentType": "Quiz",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2023-quiz-1-2-and-3-nanyang",
@@ -645,7 +804,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2023-p2-chinese-quiz-1-2-and-3-nanyang-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Quiz"
+    "assessmentType": "Quiz",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2023-quiz-2-maha-bodhi",
@@ -657,7 +819,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2023-p2-chinese-quiz-2-maha-bodhi-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Quiz"
+    "assessmentType": "Quiz",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2023-quiz-4-henry-park",
@@ -669,7 +834,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2023-p2-chinese-quiz-4-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Quiz"
+    "assessmentType": "Quiz",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2023-revision-2-and-3-raffles-girls",
@@ -681,7 +849,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2023-p2-chinese-revision-2-and-3-raffles-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2023-revision-4-and-5-raffles-girls",
@@ -693,7 +864,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2023-p2-chinese-revision-4-and-5-raffles-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2023-revision-6-7-and-8-raffles-girls",
@@ -705,7 +879,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2023-p2-chinese-revision-6-7-and-8-raffles-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2023-practice-paper-1-nanyang",
@@ -717,7 +894,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2023-p2-english-practice-paper-1-nanyang-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2023-practice-paper-2-nanyang",
@@ -729,7 +909,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2023-p2-english-practice-paper-2-nanyang-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2023-quiz-1-henry-park",
@@ -741,7 +924,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2023-p2-english-quiz-1-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Quiz"
+    "assessmentType": "Quiz",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2023-quiz-2-henry-park",
@@ -753,7 +939,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2023-p2-english-quiz-2-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Quiz"
+    "assessmentType": "Quiz",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2023-quiz-3-henry-park",
@@ -765,7 +954,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2023-p2-english-quiz-3-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Quiz"
+    "assessmentType": "Quiz",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2023-quiz-4-henry-park",
@@ -777,7 +969,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2023-p2-english-quiz-4-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Quiz"
+    "assessmentType": "Quiz",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2023-reading-comprehension-red-swastika",
@@ -789,7 +984,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2023-p2-english-reading-comprehension-red-swastika-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2023-review-1-maha-bodhi",
@@ -801,7 +999,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2023-p2-english-review-1-maha-bodhi-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2023-review-1-tao-nan",
@@ -813,7 +1014,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2023-p2-english-review-1-tao-nan-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2023-review-2-maha-bodhi",
@@ -825,7 +1029,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2023-p2-english-review-2-maha-bodhi-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2023-review-3-maha-bodhi",
@@ -837,7 +1044,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2023-p2-english-review-3-maha-bodhi-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2023-review-practice-1-raffles-girls",
@@ -849,7 +1059,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2023-p2-english-review-practice-1-raffles-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2023-review-practice-2-raffles-girls",
@@ -861,7 +1074,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2023-p2-english-review-practice-2-raffles-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2023-review-practice-3-raffles-girls",
@@ -873,7 +1089,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2023-p2-english-review-practice-3-raffles-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2023-review-practice-4-raffles-girls",
@@ -885,7 +1104,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2023-p2-english-review-practice-4-raffles-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2023-review-practice-6-raffles-girls",
@@ -897,7 +1119,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2023-p2-english-review-practice-6-raffles-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2023-test-1-nanyang",
@@ -909,7 +1134,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2023-p2-english-test-1-nanyang-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Test"
+    "assessmentType": "Test",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2023-word-orderred-swastika",
@@ -921,7 +1149,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2023-p2-english-word-orderred-swastika-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2023-worksheets-unit-1-acs",
@@ -933,7 +1164,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2023-p2-english-worksheets-unit-1-acs-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2023-worksheets-unit-2-acs",
@@ -945,7 +1179,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2023-p2-english-worksheets-unit-2-acs-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2023-worksheets-unit-3-acs",
@@ -957,7 +1194,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2023-p2-english-worksheets-unit-3-acs-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2023-quiz-1-henry-park",
@@ -969,7 +1209,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2023-p2-maths-quiz-1-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Quiz"
+    "assessmentType": "Quiz",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2023-quiz-1-scgs",
@@ -981,7 +1224,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2023-p2-maths-quiz-1-scgs-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Quiz"
+    "assessmentType": "Quiz",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2023-quiz-2-henry-park",
@@ -993,7 +1239,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2023-p2-maths-quiz-2-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Quiz"
+    "assessmentType": "Quiz",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2023-quiz-3-henry-park",
@@ -1005,7 +1254,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2023-p2-maths-quiz-3-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Quiz"
+    "assessmentType": "Quiz",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2023-quiz-4-henry-park",
@@ -1017,7 +1269,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2023-p2-maths-quiz-4-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Quiz"
+    "assessmentType": "Quiz",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2023-quiz-4-scgs",
@@ -1029,7 +1284,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2023-p2-maths-quiz-4-scgs-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Quiz"
+    "assessmentType": "Quiz",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2023-review-1-nan-hua",
@@ -1041,7 +1299,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2023-p2-maths-review-1-nan-hua-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2023-revision-1-raffles-girls",
@@ -1053,7 +1314,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2023-p2-maths-revision-1-raffles-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2023-revision-2-raffles-girls",
@@ -1065,7 +1329,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2023-p2-maths-revision-2-raffles-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2023-revision-3-raffles-girls",
@@ -1077,7 +1344,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2023-p2-maths-revision-3-raffles-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2023-revision-4-raffles-girls",
@@ -1089,7 +1359,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2023-p2-maths-revision-4-raffles-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2023-semestral-assessment-2-pei-hwa",
@@ -1101,7 +1374,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2023-p2-maths-semestral-assessment-2-pei-hwa-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2023-term-2-assessment-st-hilda",
@@ -1113,7 +1389,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2023-p2-maths-term-2-assessment-st-hilda-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2023-term-2-revision-paper-chij",
@@ -1125,7 +1404,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2023-p2-maths-term-2-revision-paper-chij-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2023-term-3-revision-paper-chij",
@@ -1137,7 +1419,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2023-p2-maths-term-3-revision-paper-chij-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2023-term-4-assessment-st-hilda",
@@ -1149,7 +1434,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2023-p2-maths-term-4-assessment-st-hilda-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2023-topical-review-1-maha-bodhi",
@@ -1161,7 +1449,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2023-p2-maths-topical-review-1-maha-bodhi-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2023-topical-review-2-maha-bodhi",
@@ -1173,7 +1464,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2023-p2-maths-topical-review-2-maha-bodhi-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2023-topical-review-3-maha-bodhi",
@@ -1185,7 +1479,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2023-p2-maths-topical-review-3-maha-bodhi-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2023-topical-test-2-nanyang",
@@ -1197,7 +1494,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2023-p2-maths-topical-test-2-nanyang-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2022-mini-test-rulang",
@@ -1209,7 +1509,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2022-p2-chinese-mini-test-rulang-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2022-mini-test-1-and-2-acs",
@@ -1221,7 +1524,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2022-p2-chinese-mini-test-1-and-2-acs-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2022-mini-test-1-and-2-pei-hwa",
@@ -1233,7 +1539,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2022-p2-chinese-mini-test-1-and-2-pei-hwa-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2022-mini-test-3-rulang",
@@ -1245,7 +1554,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2022-p2-chinese-mini-test-3-rulang-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2022-practice-6-acs",
@@ -1257,7 +1569,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2022-p2-chinese-practice-6-acs-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2022-quiz-1-tao-nan",
@@ -1269,7 +1584,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2022-p2-chinese-quiz-1-tao-nan-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Quiz"
+    "assessmentType": "Quiz",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2022-quiz-6-tao-nan",
@@ -1281,7 +1599,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2022-p2-chinese-quiz-6-tao-nan-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Quiz"
+    "assessmentType": "Quiz",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2022-revision-4-nan-chiau",
@@ -1293,7 +1614,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2022-p2-chinese-revision-4-nan-chiau-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2022-semestral-assessment-catholic-high",
@@ -1305,7 +1629,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2022-p2-chinese-semestral-assessment-catholic-high-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2022-semestral-assessment-2-rulang",
@@ -1317,7 +1644,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2022-p2-chinese-semestral-assessment-2-rulang-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2022-test-2-ai-tong",
@@ -1329,7 +1659,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2022-p2-chinese-test-2-ai-tong-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Test"
+    "assessmentType": "Test",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2022-assessment-nanyang",
@@ -1341,7 +1674,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2022-p2-english-assessment-nanyang-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2022-editing-red-swastika",
@@ -1353,7 +1689,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2022-p2-english-editing-red-swastika-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2022-holistic-assessment-rosyth",
@@ -1365,7 +1704,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2022-p2-english-holistic-assessment-rosyth-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2022-mini-test-rulang",
@@ -1377,7 +1719,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2022-p2-english-mini-test-rulang-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2022-minitest-1-pei-hwa",
@@ -1389,7 +1734,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2022-p2-english-minitest-1-pei-hwa-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2022-minitest-2-pei-hwa",
@@ -1401,7 +1749,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2022-p2-english-minitest-2-pei-hwa-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2022-practice-paper-2-tao-nan",
@@ -1413,7 +1764,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2022-p2-english-practice-paper-2-tao-nan-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2022-review-2-tao-nan",
@@ -1425,7 +1779,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2022-p2-english-review-2-tao-nan-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2022-semestral-assessment-chij",
@@ -1437,7 +1794,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2022-p2-english-semestral-assessment-chij-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2022-semestral-assessment-catholic-high",
@@ -1449,7 +1809,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2022-p2-english-semestral-assessment-catholic-high-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2022-semestral-assessment-rulang",
@@ -1461,7 +1824,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2022-p2-english-semestral-assessment-rulang-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2022-term-1-review-nan-hua",
@@ -1473,7 +1839,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2022-p2-english-term-1-review-nan-hua-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2022-term-2-review-nan-hua",
@@ -1485,7 +1854,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2022-p2-english-term-2-review-nan-hua-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2022-term-3-review-nan-hua",
@@ -1497,7 +1869,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2022-p2-english-term-3-review-nan-hua-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2022-bite-sized-assessment-3-acs",
@@ -1509,7 +1884,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2022-p2-maths-bite-sized-assessment-3-acs-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2022-checkpoint-1-and-3-catholic-high",
@@ -1521,7 +1899,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2022-p2-maths-checkpoint-1-and-3-catholic-high-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2022-holistic-assessment-1-tao-nan",
@@ -1533,7 +1914,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2022-p2-maths-holistic-assessment-1-tao-nan-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2022-holistic-assessment-2-tao-nan",
@@ -1545,7 +1929,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2022-p2-maths-holistic-assessment-2-tao-nan-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2022-holistic-assessment-3-tao-nan",
@@ -1557,7 +1944,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2022-p2-maths-holistic-assessment-3-tao-nan-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2022-learning-review-nan-chiau",
@@ -1569,7 +1959,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2022-p2-maths-learning-review-nan-chiau-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2022-mini-test-1-rulang",
@@ -1581,7 +1974,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2022-p2-maths-mini-test-1-rulang-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2021-mini-test-1-to-4-red-swastika",
@@ -1593,7 +1989,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2021-p2-chinese-mini-test-1-to-4-red-swastika-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2021-practice-paper-1234-rosyth",
@@ -1605,7 +2004,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2021-p2-chinese-practice-paper-1234-rosyth-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2021-practice-paper-4-rosyth",
@@ -1617,7 +2019,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2021-p2-chinese-practice-paper-4-rosyth-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2021-ha2-rosyth",
@@ -1629,7 +2034,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2021-p2-english-ha2-rosyth-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2021-ha4-rosyth",
@@ -1641,7 +2049,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2021-p2-english-ha4-rosyth-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2021-milestone-check1-red-swastika",
@@ -1653,7 +2064,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2021-p2-english-milestone-check1-red-swastika-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2021-milestone-check2-red-swastika",
@@ -1665,7 +2079,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2021-p2-english-milestone-check2-red-swastika-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2021-milestone-check3-red-swastika",
@@ -1677,7 +2094,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2021-p2-english-milestone-check3-red-swastika-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2021-spelling-ai-tong",
@@ -1689,7 +2109,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2021-p2-english-spelling-ai-tong-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2021-bite-sized-assessment-1-acsj",
@@ -1701,7 +2124,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2021-p2-maths-bite-sized-assessment-1-acsj-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2021-bite-sized-assessment-2-acsj",
@@ -1713,7 +2139,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2021-p2-maths-bite-sized-assessment-2-acsj-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2021-bite-sized-assessment-3-acsj",
@@ -1725,7 +2154,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2021-p2-maths-bite-sized-assessment-3-acsj-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2021-bite-sized-assessment-4-acsj",
@@ -1737,7 +2169,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2021-p2-maths-bite-sized-assessment-4-acsj-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2021-milestone-check10-red-swastika",
@@ -1749,7 +2184,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2021-p2-maths-milestone-check10-red-swastika-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2021-milestone-check5-red-swastika",
@@ -1761,7 +2199,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2021-p2-maths-milestone-check5-red-swastika-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2021-milestone-check6-red-swastika",
@@ -1773,7 +2214,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2021-p2-maths-milestone-check6-red-swastika-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2021-milestone-check7-red-swastika",
@@ -1785,7 +2229,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2021-p2-maths-milestone-check7-red-swastika-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2021-milestone-check8-red-swastika",
@@ -1797,7 +2244,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2021-p2-maths-milestone-check8-red-swastika-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2021-topical-review-2-rosyth",
@@ -1809,7 +2259,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2021-p2-maths-topical-review-2-rosyth-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2021-topical-revision-1-rosyth",
@@ -1821,7 +2274,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2021-p2-maths-topical-revision-1-rosyth-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2021-topical-revision-2-rosyth",
@@ -1833,7 +2289,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2021-p2-maths-topical-revision-2-rosyth-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2021-topical-revision-3-rosyth",
@@ -1845,7 +2304,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2021-p2-maths-topical-revision-3-rosyth-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2021-topical-revision-4-rosyth",
@@ -1857,7 +2319,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2021-p2-maths-topical-revision-4-rosyth-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2019-assessment-1-and-3-rosyth",
@@ -1869,7 +2334,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2019-p2-chinese-assessment-1-and-3-rosyth-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2019-assessment-2-and-4-rosyth",
@@ -1881,7 +2349,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2019-p2-chinese-assessment-2-and-4-rosyth-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2019-compo-practice-catholic",
@@ -1893,7 +2364,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2019-p2-chinese-compo-practice-catholic-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2019-quiz-henry-park",
@@ -1905,7 +2379,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2019-p2-chinese-quiz-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Quiz"
+    "assessmentType": "Quiz",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2019-review-maha-bodhi",
@@ -1917,7 +2394,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2019-p2-chinese-review-maha-bodhi-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2019-review-1-2-nan-hua",
@@ -1929,7 +2409,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2019-p2-chinese-review-1-2-nan-hua-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2019-revision-acs-p",
@@ -1941,7 +2424,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2019-p2-chinese-revision-acs-p-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2019-revision-ai-tong",
@@ -1953,7 +2439,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2019-p2-chinese-revision-ai-tong-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2019-revision-nan-hua",
@@ -1965,7 +2454,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2019-p2-chinese-revision-nan-hua-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2019-revision-rgps",
@@ -1977,7 +2469,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2019-p2-chinese-revision-rgps-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2019-revision-1-2-tao-nan",
@@ -1989,7 +2484,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2019-p2-chinese-revision-1-2-tao-nan-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2019-sa1-sa2-nanyang",
@@ -2001,7 +2499,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2019-p2-chinese-sa1_sa2-nanyang-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2019-sa2-catholic",
@@ -2013,7 +2514,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2019-p2-chinese-sa2-catholic-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2019-term-2-mini-test-pei-hwa",
@@ -2025,7 +2529,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2019-p2-chinese-term-2-mini-test-pei-hwa-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2019-test-henry-park",
@@ -2037,7 +2544,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2019-p2-chinese-test-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Test"
+    "assessmentType": "Test",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2019-assessment-2-rosyth",
@@ -2049,7 +2559,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2019-p2-english-assessment-2-rosyth-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2019-assessment-3-pei-chun",
@@ -2061,7 +2574,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2019-p2-english-assessment-3-pei-chun-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2019-class-test-1-red-swastika",
@@ -2073,7 +2589,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2019-p2-english-class-test-1-red-swastika-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2019-grammar-ws-2-acs-j",
@@ -2085,7 +2604,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2019-p2-english-grammar-ws-2-acs-j-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2019-language-nanyang",
@@ -2097,7 +2619,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2019-p2-english-language-nanyang-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2019-language-practice-1-nanyang",
@@ -2109,7 +2634,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2019-p2-english-language-practice-1-nanyang-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2019-language-review-1-maha-bodhi",
@@ -2121,7 +2649,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2019-p2-english-language-review-1-maha-bodhi-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2019-practice-scgs",
@@ -2133,7 +2664,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2019-p2-english-practice-scgs-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2019-practice-paper-1-2-acs-p",
@@ -2145,7 +2679,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2019-p2-english-practice-paper-1-2-acs-p-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2019-practice-paper-2-acs-j",
@@ -2157,7 +2694,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2019-p2-english-practice-paper-2-acs-j-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2019-quiz-1-2-henry-park",
@@ -2169,7 +2709,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2019-p2-english-quiz-1-2-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Quiz"
+    "assessmentType": "Quiz",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2019-quiz-4-henry-park",
@@ -2181,7 +2724,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2019-p2-english-quiz-4-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Quiz"
+    "assessmentType": "Quiz",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2019-review-1-rgps",
@@ -2193,7 +2739,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2019-p2-english-review-1-rgps-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2019-review-2-rgps",
@@ -2205,7 +2754,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2019-p2-english-review-2-rgps-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2019-revision-1-red-swastika",
@@ -2217,7 +2769,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2019-p2-english-revision-1-red-swastika-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2019-sa-catholic",
@@ -2229,7 +2784,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2019-p2-english-sa-catholic-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2019-sa2-revision-1-acs-j",
@@ -2241,7 +2799,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2019-p2-english-sa2-revision-1-acs-j-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2019-term-1-2-review-nan-hua",
@@ -2253,7 +2814,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2019-p2-english-term-1-2-review-nan-hua-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2019-term-2-practice-2-catholic",
@@ -2265,7 +2829,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2019-p2-english-term-2-practice-2-catholic-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2019-term-3-review-nan-hua",
@@ -2277,7 +2844,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2019-p2-english-term-3-review-nan-hua-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2019-test-tao-nan",
@@ -2289,7 +2859,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2019-p2-english-test-tao-nan-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Test"
+    "assessmentType": "Test",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2019-unit-10-review-term-3-red-swastika",
@@ -2301,7 +2874,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2019-p2-english-unit-10-review-term-3-red-swastika-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2019-unit-11-review-term-3-red-swastika",
@@ -2313,7 +2889,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2019-p2-english-unit-11-review-term-3-red-swastika-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2019-unit-12-review-term-3-red-swastika",
@@ -2325,7 +2904,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2019-p2-english-unit-12-review-term-3-red-swastika-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2019-unit-13-review-term-4-red-swastika",
@@ -2337,7 +2919,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2019-p2-english-unit-13-review-term-4-red-swastika-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2019-unit-14-review-term-4-red-swastika",
@@ -2349,7 +2934,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2019-p2-english-unit-14-review-term-4-red-swastika-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2019-unit-9-review-term-3-red-swastika",
@@ -2361,7 +2949,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2019-p2-english-unit-9-review-term-3-red-swastika-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2019-assessment-review-pei-chun",
@@ -2373,7 +2964,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2019-p2-maths-assessment-review-pei-chun-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2019-assessment-test-tao-nan",
@@ -2385,7 +2979,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2019-p2-maths-assessment-test-tao-nan-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2019-ca2-red-swastika",
@@ -2397,7 +2994,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2019-p2-maths-ca2-red-swastika-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "CA"
+    "assessmentType": "CA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2019-review-rgps",
@@ -2409,7 +3009,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2019-p2-maths-review-rgps-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2019-review-1-tao-nan",
@@ -2421,7 +3024,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2019-p2-maths-review-1-tao-nan-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2019-review-2-tao-nan",
@@ -2433,7 +3039,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2019-p2-maths-review-2-tao-nan-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2019-revision-red-swastika",
@@ -2445,7 +3054,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2019-p2-maths-revision-red-swastika-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Review"
+    "assessmentType": "Review",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2019-sa2-review-1-acs-j",
@@ -2457,7 +3069,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2019-p2-maths-sa2-review-1-acs-j-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2019-sa2-review-2-acs-j",
@@ -2469,7 +3084,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2019-p2-maths-sa2-review-2-acs-j-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2019-term-1-2-3-review-nan-hua",
@@ -2481,7 +3099,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2019-p2-maths-term-1-2-3-review-nan-hua-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2019-term-1-review-chij",
@@ -2493,7 +3114,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2019-p2-maths-term-1-review-chij-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2019-term-2-review-chij",
@@ -2505,7 +3129,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2019-p2-maths-term-2-review-chij-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2019-term-2-review-scgs",
@@ -2517,7 +3144,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2019-p2-maths-term-2-review-scgs-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2019-term-3-review-chij",
@@ -2529,7 +3159,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2019-p2-maths-term-3-review-chij-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2019-term-4-review-chij",
@@ -2541,7 +3174,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2019-p2-maths-term-4-review-chij-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2019-topical-quiz-2-3-henry-park",
@@ -2553,7 +3189,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2019-p2-maths-topical-quiz-2-3-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2019-topical-quiz-3-4-henry-park",
@@ -2565,7 +3204,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2019-p2-maths-topical-quiz-3-4-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2019-topical-quiz-term1-2-3-henry-park",
@@ -2577,7 +3219,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2019-p2-maths-topical-quiz-term1-2-3-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2019-topical-review-acs-p",
@@ -2589,7 +3234,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2019-p2-maths-topical-review-acs-p-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2019-topical-review-catholic",
@@ -2601,7 +3249,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2019-p2-maths-topical-review-catholic-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2019-topical-review-mgs",
@@ -2613,7 +3264,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2019-p2-maths-topical-review-mgs-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2019-topical-review-pei-chun",
@@ -2625,7 +3279,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2019-p2-maths-topical-review-pei-chun-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2019-topical-review-red-swastika",
@@ -2637,7 +3294,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2019-p2-maths-topical-review-red-swastika-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2019-topical-review-rosyth",
@@ -2649,7 +3309,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2019-p2-maths-topical-review-rosyth-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2019-topical-review-3-4-maha-bohdi",
@@ -2661,7 +3324,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2019-p2-maths-topical-review-3-4-maha-bohdi-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2019-topical-test-red-swastika",
@@ -2673,7 +3339,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2019-p2-maths-topical-test-red-swastika-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2019-topical-test-rosyth",
@@ -2685,7 +3354,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2019-p2-maths-topical-test-rosyth-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2019-topical-test-1-2-3-nanyang",
@@ -2697,7 +3369,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2019-p2-maths-topical-test-1-2-3-nanyang-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2019-topical-test-2-3-nanyang",
@@ -2709,7 +3384,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2019-p2-maths-topical-test-2-3-nanyang-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Other"
+    "assessmentType": "Other",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2018-sa2-acs",
@@ -2721,7 +3399,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2018-p2-english-sa2-acs-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2018-sa2-ai-tong",
@@ -2733,7 +3414,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2018-p2-english-sa2-ai-tong-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2018-sa2-catholic-high",
@@ -2745,7 +3429,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2018-p2-english-sa2-catholic-high-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2018-sa2-henry-park",
@@ -2757,7 +3444,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2018-p2-english-sa2-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2018-sa2-maha-bodhi",
@@ -2769,7 +3459,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2018-p2-english-sa2-maha-bodhi-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2018-sa2-nan-hua",
@@ -2781,7 +3474,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2018-p2-english-sa2-nan-hua-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2018-sa2-nanyang",
@@ -2793,7 +3489,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2018-p2-english-sa2-nan-huayang-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2018-sa2-pei-chun",
@@ -2805,7 +3504,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2018-p2-english-sa2-pei-chun-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2018-sa2-raffles",
@@ -2817,7 +3519,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2018-p2-english-sa2-raffles-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2018-sa2-rosyth",
@@ -2829,7 +3534,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2018-p2-english-sa2-rosyth-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2018-sa2-scgs",
@@ -2841,7 +3549,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2018-p2-english-sa2-scgs-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2018-sa2-st-nicholas",
@@ -2853,7 +3564,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2018-p2-english-sa2-st-nicholas-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2018-sa2-tao-nan",
@@ -2865,7 +3579,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2018-p2-english-sa2-tao-nan-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2018-test1-acs",
@@ -2877,7 +3594,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2018-p2-english-test1-acs-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Test"
+    "assessmentType": "Test",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2018-test1-nan-hua",
@@ -2889,7 +3609,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2018-p2-english-test1-nan-hua-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Test"
+    "assessmentType": "Test",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2018-test1-tao-nan",
@@ -2901,7 +3624,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2018-p2-english-test1-tao-nan-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Test"
+    "assessmentType": "Test",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2018-test2-acs",
@@ -2913,7 +3639,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2018-p2-english-test2-acs-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Test"
+    "assessmentType": "Test",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2018-test2-nan-hua",
@@ -2925,7 +3654,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2018-p2-english-test2-nan-hua-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Test"
+    "assessmentType": "Test",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2018-test2-raffles",
@@ -2937,7 +3669,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2018-p2-english-test2-raffles-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Test"
+    "assessmentType": "Test",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2018-test2-rosyth",
@@ -2949,7 +3684,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2018-p2-english-test2-rosyth-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Test"
+    "assessmentType": "Test",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2018-test2-tao-nan",
@@ -2961,7 +3699,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2018-p2-english-test2-tao-nan-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Test"
+    "assessmentType": "Test",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2018-test3-nan-hua",
@@ -2973,7 +3714,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2018-p2-english-test3-nan-hua-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Test"
+    "assessmentType": "Test",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2018-sa2-acs",
@@ -2985,7 +3729,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2018-p2-maths-sa2-acs-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2018-sa2-ai-tong",
@@ -2997,7 +3744,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2018-p2-maths-sa2-ai-tong-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2018-sa2-catholic-high",
@@ -3009,7 +3759,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2018-p2-maths-sa2-catholic-high-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2018-sa2-henry-park",
@@ -3021,7 +3774,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2018-p2-maths-sa2-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2018-sa2-maha-bodhi",
@@ -3033,7 +3789,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2018-p2-maths-sa2-maha-bodhi-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2018-sa2-nan-hua",
@@ -3045,7 +3804,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2018-p2-maths-sa2-nan-hua-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2018-sa2-nanyang",
@@ -3057,7 +3819,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2018-p2-maths-sa2-nan-huayang-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2018-sa2-pei-chun",
@@ -3069,7 +3834,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2018-p2-maths-sa2-pei-chun-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2018-sa2-raffles",
@@ -3081,7 +3849,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2018-p2-maths-sa2-raffles-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2018-sa2-rosyth",
@@ -3093,7 +3864,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2018-p2-maths-sa2-rosyth-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2018-sa2-scgs",
@@ -3105,7 +3879,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2018-p2-maths-sa2-scgs-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2018-sa2-st-nicholas",
@@ -3117,7 +3894,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2018-p2-maths-sa2-st-nicholas-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2018-sa2-tao-nan",
@@ -3129,7 +3909,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2018-p2-maths-sa2-tao-nan-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2018-test1-catholic-high",
@@ -3141,7 +3924,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2018-p2-maths-test1-catholic-high-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Test"
+    "assessmentType": "Test",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2018-test1-nan-hua",
@@ -3153,7 +3939,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2018-p2-maths-test1-nan-hua-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Test"
+    "assessmentType": "Test",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2018-test1-rosyth",
@@ -3165,7 +3954,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2018-p2-maths-test1-rosyth-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Test"
+    "assessmentType": "Test",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2018-test1-st-nicholas",
@@ -3177,7 +3969,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2018-p2-maths-test1-st-nicholas-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Test"
+    "assessmentType": "Test",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2018-test1-tao-nan",
@@ -3189,7 +3984,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2018-p2-maths-test1-tao-nan-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Test"
+    "assessmentType": "Test",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2018-test2-catholic-high",
@@ -3201,7 +3999,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2018-p2-maths-test2-catholic-high-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Test"
+    "assessmentType": "Test",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2018-test2-nan-hua",
@@ -3213,7 +4014,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2018-p2-maths-test2-nan-hua-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Test"
+    "assessmentType": "Test",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2018-test2-rosyth",
@@ -3225,7 +4029,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2018-p2-maths-test2-rosyth-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Test"
+    "assessmentType": "Test",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2018-test2-st-nicholas",
@@ -3237,7 +4044,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2018-p2-maths-test2-st-nicholas-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Test"
+    "assessmentType": "Test",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2018-test3-acs",
@@ -3249,7 +4059,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2018-p2-maths-test3-acs-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Test"
+    "assessmentType": "Test",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2018-test3-catholic-high",
@@ -3261,7 +4074,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2018-p2-maths-test3-catholic-high-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Test"
+    "assessmentType": "Test",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2018-test3-nan-hua",
@@ -3273,7 +4089,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2018-p2-maths-test3-nan-hua-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Test"
+    "assessmentType": "Test",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2018-test3-rosyth",
@@ -3285,7 +4104,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2018-p2-maths-test3-rosyth-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Test"
+    "assessmentType": "Test",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2018-test3-tao-nan",
@@ -3297,7 +4119,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2018-p2-maths-test3-tao-nan-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Test"
+    "assessmentType": "Test",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2018-test4-nan-hua",
@@ -3309,7 +4134,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2018-p2-maths-test4-nan-hua-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Test"
+    "assessmentType": "Test",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2017-test-catholic-high",
@@ -3321,7 +4149,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2017-p2-chinese-test-catholic-high-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Test"
+    "assessmentType": "Test",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2017-test-maris-stella-high",
@@ -3333,7 +4164,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2017-p2-chinese-test-maris-stella-high-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Test"
+    "assessmentType": "Test",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2017-test-methodist-girls",
@@ -3345,7 +4179,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2017-p2-chinese-test-methodist-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Test"
+    "assessmentType": "Test",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2017-test-raffles-girls",
@@ -3357,7 +4194,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2017-p2-chinese-test-raffles-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Test"
+    "assessmentType": "Test",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2017-test-rulang",
@@ -3369,7 +4209,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2017-p2-chinese-test-rulang-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "Test"
+    "assessmentType": "Test",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2017-ca1-ai-tong",
@@ -3381,7 +4224,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2017-p2-english-ca1-ai-tong-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "CA"
+    "assessmentType": "CA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2017-ca1-catholic-high",
@@ -3393,7 +4239,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2017-p2-english-ca1-catholic-high-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "CA"
+    "assessmentType": "CA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2017-ca1-henry-park",
@@ -3405,7 +4254,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2017-p2-english-ca1-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "CA"
+    "assessmentType": "CA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2017-ca1-maha-bodhi",
@@ -3417,7 +4269,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2017-p2-english-ca1-maha-bodhi-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "CA"
+    "assessmentType": "CA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2017-ca2-henry-park",
@@ -3429,7 +4284,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2017-p2-english-ca2-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "CA"
+    "assessmentType": "CA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2017-ca2-maris-stella-high",
@@ -3441,7 +4299,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2017-p2-english-ca2-maris-stella-high-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "CA"
+    "assessmentType": "CA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2017-sa1-ai-tong",
@@ -3453,7 +4314,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2017-p2-english-sa1-ai-tong-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2017-sa1-anglo-chinese",
@@ -3465,7 +4329,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2017-p2-english-sa1-anglo-chinese-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2017-sa1-catholic-high",
@@ -3477,7 +4344,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2017-p2-english-sa1-catholic-high-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2017-sa1-henry-park",
@@ -3489,7 +4359,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2017-p2-english-sa1-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2017-sa1-maha-bodhi",
@@ -3501,7 +4374,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2017-p2-english-sa1-maha-bodhi-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2017-sa1-maris-stella-high",
@@ -3513,7 +4389,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2017-p2-english-sa1-maris-stella-high-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2017-sa1-methodist-girls",
@@ -3525,7 +4404,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2017-p2-english-sa1-methodist-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2017-sa1-nanyang",
@@ -3537,7 +4419,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2017-p2-english-sa1-nanyang-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2017-sa1-raffles-girls",
@@ -3549,7 +4434,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2017-p2-english-sa1-raffles-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2017-sa1-rulang",
@@ -3561,7 +4449,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2017-p2-english-sa1-rulang-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2017-sa2-ai-tong",
@@ -3573,7 +4464,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2017-p2-english-sa2-ai-tong-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2017-sa2-anglo-chinese",
@@ -3585,7 +4479,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2017-p2-english-sa2-anglo-chinese-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2017-sa2-catholic-high",
@@ -3597,7 +4494,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2017-p2-english-sa2-catholic-high-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2017-sa2-henry-park",
@@ -3609,7 +4509,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2017-p2-english-sa2-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2017-sa2-maha-bodhi",
@@ -3621,7 +4524,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2017-p2-english-sa2-maha-bodhi-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2017-sa2-maris-stella-high",
@@ -3633,7 +4539,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2017-p2-english-sa2-maris-stella-high-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2017-sa2-methodist-girls",
@@ -3645,7 +4554,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2017-p2-english-sa2-methodist-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2017-sa2-nanyang",
@@ -3657,7 +4569,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2017-p2-english-sa2-nanyang-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2017-sa2-raffles-girls",
@@ -3669,7 +4584,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2017-p2-english-sa2-raffles-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2017-sa2-rulang",
@@ -3681,7 +4599,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2017-p2-english-sa2-rulang-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2017-sa2-tao-nan",
@@ -3693,7 +4614,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2017-p2-english-sa2-tao-nan-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2017-ca1-ai-tong",
@@ -3705,7 +4629,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2017-p2-maths-ca1-ai-tong-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "CA"
+    "assessmentType": "CA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2017-ca1-anglo-chinese",
@@ -3717,7 +4644,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2017-p2-maths-ca1-anglo-chinese-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "CA"
+    "assessmentType": "CA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2017-ca1-catholic-high",
@@ -3729,7 +4659,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2017-p2-maths-ca1-catholic-high-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "CA"
+    "assessmentType": "CA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2017-ca1-henry-park",
@@ -3741,7 +4674,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2017-p2-maths-ca1-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "CA"
+    "assessmentType": "CA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2017-ca1-maha-bodhi",
@@ -3753,7 +4689,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2017-p2-maths-ca1-maha-bodhi-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "CA"
+    "assessmentType": "CA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2017-ca1-methodist-girls",
@@ -3765,7 +4704,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2017-p2-maths-ca1-methodist-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "CA"
+    "assessmentType": "CA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2017-ca1-nanyang",
@@ -3777,7 +4719,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2017-p2-maths-ca1-nanyang-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "CA"
+    "assessmentType": "CA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2017-ca1-raffles-girls",
@@ -3789,7 +4734,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2017-p2-maths-ca1-raffles-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "CA"
+    "assessmentType": "CA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2017-ca2-nanyang",
@@ -3801,7 +4749,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2017-p2-maths-ca2-nanyang-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "CA"
+    "assessmentType": "CA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2017-sa1-ai-tong",
@@ -3813,7 +4764,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2017-p2-maths-sa1-ai-tong-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2017-sa1-anglo-chinese",
@@ -3825,7 +4779,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2017-p2-maths-sa1-anglo-chinese-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2017-sa1-catholic-high",
@@ -3837,7 +4794,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2017-p2-maths-sa1-catholic-high-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2017-sa1-henry-park",
@@ -3849,7 +4809,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2017-p2-maths-sa1-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2017-sa1-maha-bodhi",
@@ -3861,7 +4824,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2017-p2-maths-sa1-maha-bodhi-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2017-sa1-maris-stella-high",
@@ -3873,7 +4839,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2017-p2-maths-sa1-maris-stella-high-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2017-sa1-methodist-girls",
@@ -3885,7 +4854,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2017-p2-maths-sa1-methodist-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2017-sa1-nanyang",
@@ -3897,7 +4869,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2017-p2-maths-sa1-nanyang-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2017-sa1-rulang",
@@ -3909,7 +4884,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2017-p2-maths-sa1-rulang-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2017-sa2-ai-tong",
@@ -3921,7 +4899,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2017-p2-maths-sa2-ai-tong-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2017-sa2-anglo-chinese",
@@ -3933,7 +4914,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2017-p2-maths-sa2-anglo-chinese-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2017-sa2-catholic-high",
@@ -3945,7 +4929,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2017-p2-maths-sa2-catholic-high-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2017-sa2-henry-park",
@@ -3957,7 +4944,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2017-p2-maths-sa2-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2017-sa2-maha-bodhi",
@@ -3969,7 +4959,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2017-p2-maths-sa2-maha-bodhi-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2017-sa2-maris-stella-high",
@@ -3981,7 +4974,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2017-p2-maths-sa2-maris-stella-high-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2017-sa2-methodist-girls",
@@ -3993,7 +4989,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2017-p2-maths-sa2-methodist-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2017-sa2-nanyang",
@@ -4005,7 +5004,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2017-p2-maths-sa2-nanyang-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2017-sa2-raffles-girls",
@@ -4017,7 +5019,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2017-p2-maths-sa2-raffles-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2017-sa2-rulang",
@@ -4029,7 +5034,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2017-p2-maths-sa2-rulang-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2017-sa2-tao-nan",
@@ -4041,7 +5049,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2017-p2-maths-sa2-tao-nan-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2016-sa2-henry-park",
@@ -4053,7 +5064,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2016-p2-chinese-sa2-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2016-sa2-maris-stella-high",
@@ -4065,7 +5079,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2016-p2-chinese-sa2-maris-stella-high-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2016-sa2-methodist-girls",
@@ -4077,7 +5094,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2016-p2-chinese-sa2-methodist-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2016-sa2-pei-hwa",
@@ -4089,7 +5109,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2016-p2-chinese-sa2-pei-hwa-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2016-sa2-raffles-girls",
@@ -4101,7 +5124,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2016-p2-chinese-sa2-raffles-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-chinese-2016-sa2-scgs",
@@ -4113,7 +5139,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/chinese/2016-p2-chinese-sa2-scgs-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2016-ca2-henry-park",
@@ -4125,7 +5154,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2016-p2-english-ca2-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "CA"
+    "assessmentType": "CA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2016-ca2-maris-stella-high",
@@ -4137,7 +5169,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2016-p2-english-ca2-maris-stella-high-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "CA"
+    "assessmentType": "CA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2016-ca2-pei-chun",
@@ -4149,7 +5184,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2016-p2-english-ca2-pei-chun-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "CA"
+    "assessmentType": "CA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2016-ca2-pei-hwa",
@@ -4161,7 +5199,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2016-p2-english-ca2-pei-hwa-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "CA"
+    "assessmentType": "CA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2016-ca2-raffles-girls",
@@ -4173,7 +5214,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2016-p2-english-ca2-raffles-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "CA"
+    "assessmentType": "CA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2016-sa1-henry-park",
@@ -4185,7 +5229,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2016-p2-english-sa1-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2016-sa1-methodist-girls",
@@ -4197,7 +5244,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2016-p2-english-sa1-methodist-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2016-sa1-nanyang",
@@ -4209,7 +5259,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2016-p2-english-sa1-nanyang-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2016-sa1-pei-chun",
@@ -4221,7 +5274,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2016-p2-english-sa1-pei-chun-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2016-sa1-pei-hwa",
@@ -4233,7 +5289,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2016-p2-english-sa1-pei-hwa-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2016-sa1-red-swastika",
@@ -4245,7 +5304,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2016-p2-english-sa1-red-swastika-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2016-sa1-tao-nan",
@@ -4257,7 +5319,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2016-p2-english-sa1-tao-nan-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2016-sa2-ai-tong",
@@ -4269,7 +5334,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2016-p2-english-sa2-ai-tong-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2016-sa2-anglo-chinese",
@@ -4281,7 +5349,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2016-p2-english-sa2-anglo-chinese-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2016-sa2-henry-park",
@@ -4293,7 +5364,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2016-p2-english-sa2-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2016-sa2-maha-bodhi",
@@ -4305,7 +5379,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2016-p2-english-sa2-maha-bodhi-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2016-sa2-maris-stella-high",
@@ -4317,7 +5394,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2016-p2-english-sa2-maris-stella-high-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2016-sa2-methodist-girls",
@@ -4329,7 +5409,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2016-p2-english-sa2-methodist-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2016-sa2-nan-hua",
@@ -4341,7 +5424,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2016-p2-english-sa2-nan-hua-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2016-sa2-nanyang",
@@ -4353,7 +5439,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2016-p2-english-sa2-nanyang-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2016-sa2-pei-chun",
@@ -4365,7 +5454,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2016-p2-english-sa2-pei-chun-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2016-sa2-pei-hwa",
@@ -4377,7 +5469,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2016-p2-english-sa2-pei-hwa-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2016-sa2-raffles-girls",
@@ -4389,7 +5484,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2016-p2-english-sa2-raffles-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2016-sa2-red-swastika",
@@ -4401,7 +5499,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2016-p2-english-sa2-red-swastika-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-english-2016-sa2-scgs",
@@ -4413,7 +5514,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/english/2016-p2-english-sa2-scgs-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2016-ca2-henry-park",
@@ -4425,7 +5529,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2016-p2-maths-ca2-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "CA"
+    "assessmentType": "CA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2016-ca2-nanyang",
@@ -4437,7 +5544,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2016-p2-maths-ca2-nanyang-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "CA"
+    "assessmentType": "CA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2016-ca2-pei-chun",
@@ -4449,7 +5559,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2016-p2-maths-ca2-pei-chun-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "CA"
+    "assessmentType": "CA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2016-ca2-pei-hwa",
@@ -4461,7 +5574,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2016-p2-maths-ca2-pei-hwa-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "CA"
+    "assessmentType": "CA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2016-ca2-raffles-girls",
@@ -4473,7 +5589,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2016-p2-maths-ca2-raffles-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "CA"
+    "assessmentType": "CA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2016-sa1-henry-park",
@@ -4485,7 +5604,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2016-p2-maths-sa1-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2016-sa1-methodist-girls",
@@ -4497,7 +5619,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2016-p2-maths-sa1-methodist-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2016-sa1-nanyang",
@@ -4509,7 +5634,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2016-p2-maths-sa1-nanyang-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2016-sa1-pei-chun",
@@ -4521,7 +5649,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2016-p2-maths-sa1-pei-chun-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2016-sa1-pei-hwa",
@@ -4533,7 +5664,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2016-p2-maths-sa1-pei-hwa-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2016-sa1-raffles-girls",
@@ -4545,7 +5679,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2016-p2-maths-sa1-raffles-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2016-sa1-red-swastika",
@@ -4557,7 +5694,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2016-p2-maths-sa1-red-swastika-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2016-sa2-ai-tong",
@@ -4569,7 +5709,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2016-p2-maths-sa2-ai-tong-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2016-sa2-anglo-chinese",
@@ -4581,7 +5724,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2016-p2-maths-sa2-anglo-chinese-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2016-sa2-henry-park",
@@ -4593,7 +5739,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2016-p2-maths-sa2-henry-park-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2016-sa2-maris-stella-high",
@@ -4605,7 +5754,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2016-p2-maths-sa2-maris-stella-high-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2016-sa2-methodist-girls",
@@ -4617,7 +5769,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2016-p2-maths-sa2-methodist-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2016-sa2-nan-hua",
@@ -4629,7 +5784,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2016-p2-maths-sa2-nan-hua-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2016-sa2-nanyang",
@@ -4641,7 +5799,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2016-p2-maths-sa2-nanyang-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2016-sa2-pei-chun",
@@ -4653,7 +5814,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2016-p2-maths-sa2-pei-chun-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2016-sa2-pei-hwa",
@@ -4665,7 +5829,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2016-p2-maths-sa2-pei-hwa-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2016-sa2-raffles-girls",
@@ -4677,7 +5844,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2016-p2-maths-sa2-raffles-girls-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2016-sa2-red-swastika",
@@ -4689,7 +5859,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2016-p2-maths-sa2-red-swastika-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2016-sa2-scgs",
@@ -4701,7 +5874,10 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2016-p2-maths-sa2-scgs-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   },
   {
     "id": "p2-maths-2016-sa2-temasek",
@@ -4713,6 +5889,9 @@
     "hasAnswers": null,
     "sourceUrl": "https://sgexam.com/subject/maths/2016-p2-maths-sa2-temasek-pdf/",
     "notes": "Source: sgexam.com (link-out only).",
-    "assessmentType": "SA"
+    "assessmentType": "SA",
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false
   }
 ]

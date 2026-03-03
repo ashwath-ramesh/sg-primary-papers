@@ -29,6 +29,7 @@ TEMPLATE = '''<!doctype html>
     <div class="card">
       <h2 style="margin:0 0 6px">{h2}</h2>
       <div class="small">{meta}</div>
+      <div class="small" style="margin-top:6px">{trust}</div>
       <div class="row" style="margin-top:12px">
         <a class="btn" href="{source}" rel="nofollow noopener" target="_blank">Go to source link</a>
         <a class="btn secondary" href="../browse.html">Back to browse</a>
@@ -58,12 +59,25 @@ def main():
       title = f"{p['level']} {p['subject']} {p['year']} — {p['school']}"
       desc = f"{p['level']} {p['subject']} {p['year']} ({p.get('assessment','')}) source link."
       meta = f"{p.get('assessment','')} • {p.get('school','')} • {p.get('year','')}"
+      verified = 'Verified link' if p.get('verified') else 'Not verified yet'
+      checked = p.get('lastChecked') or ''
+      ans = ( 'Yes' if p.get('hasAnswers') is True else ('No' if p.get('hasAnswers') is False else 'Unknown') )
+      top = 'Top pick' if p.get('topPick') else ''
+      trust_parts = [verified]
+      if checked:
+        trust_parts.append(f"Last checked: {checked}")
+      trust_parts.append(f"Answers: {ans}")
+      if top:
+        trust_parts.append(top)
+      trust = ' • '.join([t for t in trust_parts if t])
+
       page = TEMPLATE.format(
         title=esc(title),
         desc=esc(desc),
         badge=esc(badge),
         h2=esc(f"{p['level']} {p['subject']} ({p['year']})"),
         meta=esc(meta),
+        trust=esc(trust),
         source=esc(p['sourceUrl']),
         notes=esc(p.get('notes',''))
       )

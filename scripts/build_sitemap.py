@@ -20,6 +20,14 @@ def main():
     for p in sorted(Path('docs/p2').glob('*.html')):
         urls.append(f"{BASE}/p2/{p.name}")
 
+    # Year landing pages (docs/p1/<subject>/<year>/index.html, etc.)
+    for p in sorted(Path('docs/p1').glob('**/index.html')):
+        rel = p.relative_to('docs')
+        urls.append(f"{BASE}/{rel.as_posix()}")
+    for p in sorted(Path('docs/p2').glob('**/index.html')):
+        rel = p.relative_to('docs')
+        urls.append(f"{BASE}/{rel.as_posix()}")
+
     papers_dir = Path('docs/papers')
     if papers_dir.exists():
         for p in sorted(papers_dir.glob('*.html')):

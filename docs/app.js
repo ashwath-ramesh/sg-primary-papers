@@ -109,7 +109,7 @@ async function initBrowse() {
     rows.forEach(p => {
       const tr = document.createElement('tr');
       tr.innerHTML = `
-        <td><a class="a" href="papers/${encodeURIComponent(p.id)}.html">${p.subject}</a><div class="small">${p.school}</div></td>
+        <td><a class="a" href="papers/${encodeURIComponent(p.id)}.html">${p.subject}</a><div class="small">${p.school}${p.topPick ? ' • Top pick' : ''}</div></td>
         <td>${p.year}</td>
         <td>${p.assessment}</td>
         <td>${p.hasAnswers === true ? 'Yes' : (p.hasAnswers === false ? 'No' : '—')}</td>
