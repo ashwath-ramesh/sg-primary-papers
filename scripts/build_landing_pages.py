@@ -14,6 +14,7 @@ from pathlib import Path
 DATA = {
   'p1': Path('docs/data/papers.p1.json'),
   'p2': Path('docs/data/papers.p2.json'),
+  'p3': Path('docs/data/papers.p3.json'),
 }
 
 SUBJECTS = ['English','Maths','Chinese']
@@ -30,6 +31,7 @@ def write_page(level, subject, year):
   <title>Primary {level[1:]} {subject} {year} Papers — SG Primary Papers</title>
   <meta name="description" content="Browse Primary {level[1:]} {subject} papers for {year} by assessment type and school." />
   <link rel="stylesheet" href="../../../styles.css" />
+  <script defer src="https://analytics.millisecondlabs.com/script.js" data-website-id="620b5939-4f56-49f3-9eac-0141f805d3a5"></script>
 </head>
 <body>
   <div class="container">

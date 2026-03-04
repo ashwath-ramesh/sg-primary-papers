@@ -5,6 +5,7 @@ from pathlib import Path
 DATA_FILES = [
   ('docs/data/papers.p1.json', 'Primary 1'),
   ('docs/data/papers.p2.json', 'Primary 2'),
+  ('docs/data/papers.p3.json', 'Primary 3'),
 ]
 
 TEMPLATE = '''<!doctype html>

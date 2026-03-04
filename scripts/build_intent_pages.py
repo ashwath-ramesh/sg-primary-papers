@@ -18,6 +18,7 @@ from pathlib import Path
 DATA = {
     'p1': Path('docs/data/papers.p1.json'),
     'p2': Path('docs/data/papers.p2.json'),
+    'p3': Path('docs/data/papers.p3.json'),
 }
 
 # intent_key -> (title_template, description_template, browse_params)
