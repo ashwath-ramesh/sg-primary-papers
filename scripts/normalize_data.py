@@ -44,8 +44,9 @@ def norm_assessment(a: str) -> str:
     if low in ('review', 'reviews'):
         return 'Review'
 
-    if low == 'sa1':
-        return 'SA1'
+    m = re.fullmatch(r'(wa|sa|ca|ba|ta)\s*([0-9]+)', low)
+    if m:
+        return f"{m.group(1).upper()}{m.group(2)}"
 
     return a[:1].upper() + a[1:]
 

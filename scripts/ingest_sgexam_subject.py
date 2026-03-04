@@ -91,32 +91,40 @@ def parse_subject_url(url: str) -> dict | None:
     rest = re.sub(r"^(maths|math|english|science|chinese)-", "", rest, flags=re.I)
 
     # Split remaining into assessment + school
-    parts = rest.split("-")
+    parts = [p for p in rest.split("-") if p]
     if len(parts) < 2:
         return None
 
-    # Heuristic: school is last 2-4 tokens, assessment is the rest.
-    # We'll try from 2..5 tokens and pick the split that yields an assessment containing a known marker.
-    markers = {"wa", "sa", "ca", "test", "quiz", "review", "exam", "assessment", "term", "weighted", "semestral", "end", "year", "practice", "prelim"}
-
-    def score(assess_tokens: list[str]) -> int:
-        return sum(1 for t in assess_tokens if t.lower() in markers)
-
-    best = None
-    for school_len in (2, 3, 4, 5):
-        if len(parts) <= school_len:
-            continue
-        assess_t = parts[:-school_len]
-        school_t = parts[-school_len:]
-        sc = score(assess_t)
-        if best is None or sc > best[0]:
-            best = (sc, assess_t, school_t)
-
-    if not best:
-        assess_t = parts[:-2]
-        school_t = parts[-2:]
+    # Special-case very short slugs like: ca1-acsj, sa2-mgs, ba3-acs
+    # In these cases assessment is the first token, and school is the remainder.
+    short_assess_re = re.compile(r"^(wa|sa|ca|ba|ta)\d+$", re.I)
+    if len(parts) in (2, 3) and short_assess_re.match(parts[0]):
+        assess_t = [parts[0]]
+        school_t = parts[1:]
     else:
-        _, assess_t, school_t = best
+        # Heuristic: school is last 2-4 tokens, assessment is the rest.
+        # We'll try from 2..5 tokens and pick the split that yields an assessment containing a known marker.
+        markers = {"wa", "sa", "ca", "ba", "ta", "test", "quiz", "review", "exam", "assessment", "term", "weighted", "semestral", "end", "year", "practice", "prelim"}
+
+        def score(assess_tokens: list[str]) -> int:
+            return sum(1 for t in assess_tokens if t.lower() in markers or short_assess_re.match(t))
+
+        best = None
+        for school_len in (2, 3, 4, 5):
+            if len(parts) <= school_len:
+                continue
+            a_t = parts[:-school_len]
+            s_t = parts[-school_len:]
+            sc = score(a_t)
+            if best is None or sc > best[0]:
+                best = (sc, a_t, s_t)
+
+        if not best:
+            assess_t = parts[:-2]
+            school_t = parts[-2:]
+        else:
+            _, assess_t, school_t = best
+
 
     assessment_slug = "-".join(assess_t).strip("-")
     school_slug = "-".join(school_t).strip("-")
