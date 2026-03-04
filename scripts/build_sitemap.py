@@ -3,7 +3,9 @@
 
 from pathlib import Path
 
-BASE = "https://jukebox7398.github.io/sg-primary-papers"
+# Canonical base URL for sitemap/robots.
+# For GitHub Pages project sites this includes the repo name.
+BASE = "https://ashwath-ramesh.github.io/sg-primary-papers"
 
 
 def main():
@@ -45,7 +47,12 @@ def main():
         rel = p.relative_to('docs')
         urls.append(f"{BASE}/{rel.as_posix()}")
 
-    # FAQ / guides
+    # Any top-level directory landing page (e.g. free-test-papers-..., past-year-..., collections/)
+    for p in sorted(Path('docs').glob('*/index.html')):
+        rel = p.relative_to('docs')
+        urls.append(f"{BASE}/{rel.as_posix()}")
+
+    # FAQ / guides (may be nested)
     for p in sorted(Path('docs/faq').glob('**/index.html')):
         rel = p.relative_to('docs')
         urls.append(f"{BASE}/{rel.as_posix()}")
