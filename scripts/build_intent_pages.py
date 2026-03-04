@@ -20,6 +20,7 @@ DATA = {
     'p2': Path('docs/data/papers.p2.json'),
     'p3': Path('docs/data/papers.p3.json'),
     'p4': Path('docs/data/papers.p4.json'),
+    'p5': Path('docs/data/papers.p5.json'),
 }
 
 # intent_key -> (title_template, description_template, browse_params)

@@ -7,6 +7,7 @@ DATA_FILES = [
   ('docs/data/papers.p2.json', 'Primary 2'),
   ('docs/data/papers.p3.json', 'Primary 3'),
   ('docs/data/papers.p4.json', 'Primary 4'),
+  ('docs/data/papers.p5.json', 'Primary 5'),
 ]
 
 TEMPLATE = '''<!doctype html>

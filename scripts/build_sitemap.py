@@ -25,6 +25,8 @@ def main():
         urls.append(f"{BASE}/p3/{p.name}")
     for p in sorted(Path('docs/p4').glob('*.html')):
         urls.append(f"{BASE}/p4/{p.name}")
+    for p in sorted(Path('docs/p5').glob('*.html')):
+        urls.append(f"{BASE}/p5/{p.name}")
 
     # Year landing pages (docs/p1/<subject>/<year>/index.html, etc.)
     for p in sorted(Path('docs/p1').glob('**/index.html')):
@@ -37,6 +39,9 @@ def main():
         rel = p.relative_to('docs')
         urls.append(f"{BASE}/{rel.as_posix()}")
     for p in sorted(Path('docs/p4').glob('**/index.html')):
+        rel = p.relative_to('docs')
+        urls.append(f"{BASE}/{rel.as_posix()}")
+    for p in sorted(Path('docs/p5').glob('**/index.html')):
         rel = p.relative_to('docs')
         urls.append(f"{BASE}/{rel.as_posix()}")
 

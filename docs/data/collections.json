@@ -13,5 +13,8 @@
   {"id":"p2-chinese-latest","title":"Primary 2 Chinese — Latest year","level":"p2","subject":"Chinese","year":"latest","type":""},
   {"id":"p2-chinese-quiz","title":"Primary 2 Chinese — Quizzes","level":"p2","subject":"Chinese","year":"","type":"Quiz"},
 
+  {"id":"p5-maths-latest","title":"Primary 5 Maths — Latest year","level":"p5","subject":"Maths","year":"latest","type":""},
+  {"id":"p5-maths-sa-latest","title":"Primary 5 Maths — SA (latest year)","level":"p5","subject":"Maths","year":"latest","type":"SA"},
+
   {"id":"top-picks","title":"Top picks — curated shortlist","level":"","subject":"","year":"","type":""}
 ]

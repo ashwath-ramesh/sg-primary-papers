@@ -1,11 +1,12 @@
 async function loadPapers(level) {
-  const fileMap = {
+  const files = {
     p1: './data/papers.p1.json',
     p2: './data/papers.p2.json',
     p3: './data/papers.p3.json',
     p4: './data/papers.p4.json',
+    p5: './data/papers.p5.json',
   };
-  const file = fileMap[level] || fileMap.p1;
+  const file = files[level] || files.p1;
   const res = await fetch(file, { cache: 'no-store' });
   if (!res.ok) throw new Error('Failed to load dataset');
   return res.json();
@@ -64,7 +65,7 @@ async function initBrowse() {
   {
     const params = new URLSearchParams(location.search);
     const pLevel = params.get('level');
-    if (pLevel === 'p1' || pLevel === 'p2' || pLevel === 'p3' || pLevel === 'p4') level.value = pLevel;
+    if (pLevel === 'p1' || pLevel === 'p2' || pLevel === 'p3' || pLevel === 'p4' || pLevel === 'p5') level.value = pLevel;
     topOnly = params.get('top') === '1';
   }
 
@@ -180,7 +181,8 @@ async function initPaper() {
   const p2 = await loadPapers('p2');
   const p3 = await loadPapers('p3');
   const p4 = await loadPapers('p4');
-  const all = [...p1, ...p2, ...p3, ...p4];
+  const p5 = await loadPapers('p5');
+  const all = [...p1, ...p2, ...p3, ...p4, ...p5];
   const p = all.find(x => x.id === id);
 
   const title = byId('title');

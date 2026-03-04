@@ -18,6 +18,7 @@ DATA_FILES = [
     Path('docs/data/papers.p2.json'),
     Path('docs/data/papers.p3.json'),
     Path('docs/data/papers.p4.json'),
+    Path('docs/data/papers.p5.json'),
 ]
 
 
