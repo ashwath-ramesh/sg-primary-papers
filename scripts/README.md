@@ -8,6 +8,8 @@ These scripts support the static build for GitHub Pages.
 ## Data files
 - `docs/data/papers.p1.json`
 - `docs/data/papers.p2.json`
+- `docs/data/papers.p3.json`
+- `docs/data/papers.p4.json`
 
 ## Build steps (typical)
 

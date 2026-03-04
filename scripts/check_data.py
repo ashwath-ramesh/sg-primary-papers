@@ -13,6 +13,7 @@ FILES = [
     Path('docs/data/papers.p1.json'),
     Path('docs/data/papers.p2.json'),
     Path('docs/data/papers.p3.json'),
+    Path('docs/data/papers.p4.json'),
 ]
 
 REQUIRED = ['id', 'level', 'subject', 'year', 'assessment', 'school', 'sourceUrl']

@@ -15,6 +15,7 @@ DATA = {
   'p1': Path('docs/data/papers.p1.json'),
   'p2': Path('docs/data/papers.p2.json'),
   'p3': Path('docs/data/papers.p3.json'),
+  'p4': Path('docs/data/papers.p4.json'),
 }
 
 SUBJECTS = ['English','Maths','Chinese']
