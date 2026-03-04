@@ -36,7 +36,8 @@ SUBJECT_MAP = {
 SCHOOL_SLUG_FIXES = {
     "acs-primary": "ACS-P",
     "acs-p": "ACS-P",
-    "acsp": "ACS-P",
+    # SGExam commonly uses ACSP / ACSJ abbreviations; keep them stable.
+    "acsp": "ACSP",
     "scgs": "SCGS",
     "mgs": "MGS",
 }

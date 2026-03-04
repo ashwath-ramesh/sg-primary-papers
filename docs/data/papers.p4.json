@@ -6452,21 +6452,6 @@
   {
     "year": 2021,
     "subject": "English",
-    "assessment": "",
-    "school": "Ca2 Acsp",
-    "sourceUrl": "https://sgexam.com/subject/english/2021-p4-english-ca2-acsp-pdf/",
-    "notes": "Source: sgexam.com (link-out only).",
-    "hasAnswers": null,
-    "verified": false,
-    "lastChecked": "",
-    "topPick": false,
-    "level": "P4",
-    "id": "p4-english-2021-ca2-acsp",
-    "assessmentType": ""
-  },
-  {
-    "year": 2021,
-    "subject": "English",
     "assessment": "CA1",
     "school": "Acsj",
     "sourceUrl": "https://sgexam.com/subject/english/2021-p4-english-ca1-acsj-pdf/",
@@ -6552,6 +6537,21 @@
     "topPick": false,
     "level": "P4",
     "id": "p4-english-2021-ca2-acs-p",
+    "assessmentType": "CA"
+  },
+  {
+    "year": 2021,
+    "subject": "English",
+    "assessment": "CA2",
+    "school": "ACSP",
+    "sourceUrl": "https://sgexam.com/subject/english/2021-p4-english-ca2-acsp-pdf/",
+    "notes": "Source: sgexam.com (link-out only).",
+    "hasAnswers": null,
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false,
+    "level": "P4",
+    "id": "p4-english-2021-ca2-acsp",
     "assessmentType": "CA"
   },
   {
@@ -7487,21 +7487,6 @@
   {
     "year": 2021,
     "subject": "Science",
-    "assessment": "",
-    "school": "Ca2 Acsp",
-    "sourceUrl": "https://sgexam.com/subject/science/2021-p4-science-ca2-acsp-pdf/",
-    "notes": "Source: sgexam.com (link-out only).",
-    "hasAnswers": null,
-    "verified": false,
-    "lastChecked": "",
-    "topPick": false,
-    "level": "P4",
-    "id": "p4-science-2021-ca2-acsp",
-    "assessmentType": ""
-  },
-  {
-    "year": 2021,
-    "subject": "Science",
     "assessment": "CA1",
     "school": "Acsj",
     "sourceUrl": "https://sgexam.com/subject/science/2021-p4-science-ca1-acsj-pdf/",
@@ -7557,6 +7542,21 @@
     "topPick": false,
     "level": "P4",
     "id": "p4-science-2021-ca2-acs-p",
+    "assessmentType": "CA"
+  },
+  {
+    "year": 2021,
+    "subject": "Science",
+    "assessment": "CA2",
+    "school": "ACSP",
+    "sourceUrl": "https://sgexam.com/subject/science/2021-p4-science-ca2-acsp-pdf/",
+    "notes": "Source: sgexam.com (link-out only).",
+    "hasAnswers": null,
+    "verified": false,
+    "lastChecked": "",
+    "topPick": false,
+    "level": "P4",
+    "id": "p4-science-2021-ca2-acsp",
     "assessmentType": "CA"
   },
   {
