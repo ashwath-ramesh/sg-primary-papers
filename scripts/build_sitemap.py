@@ -5,7 +5,7 @@ from pathlib import Path
 
 # Canonical base URL for sitemap/robots.
 # For GitHub Pages project sites this includes the repo name.
-BASE = "https://ashwath-ramesh.github.io/sg-primary-papers"
+BASE = "https://sgprimarypapers.millisecondlabs.com"
 
 
 def main():
