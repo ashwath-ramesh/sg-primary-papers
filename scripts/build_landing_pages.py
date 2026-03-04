@@ -19,7 +19,7 @@ DATA = {
   'p5': Path('docs/data/papers.p5.json'),
 }
 
-SUBJECTS = ['English','Maths','Chinese']
+# Generate for whatever subjects exist in each dataset (e.g. Science for P4/P5).
 
 
 def write_page(level, subject, year):
@@ -66,7 +66,8 @@ def main():
     count = 0
     for level, path in DATA.items():
         items = json.loads(path.read_text())
-        for subject in SUBJECTS:
+        subjects = sorted({i.get('subject') for i in items if i.get('subject')})
+        for subject in subjects:
             years = sorted({int(i['year']) for i in items if i.get('subject') == subject and i.get('year')}, reverse=True)
             for y in years:
                 write_page(level, subject, y)

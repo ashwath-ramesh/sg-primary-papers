@@ -16,6 +16,7 @@ def main():
         f"{BASE}/collections.html",
         f"{BASE}/reliability.html",
         f"{BASE}/about.html",
+        f"{BASE}/psle-past-year-papers.html",
     ]
 
     # Level/subject landing pages
