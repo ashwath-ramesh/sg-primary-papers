@@ -37,6 +37,12 @@ python3 scripts/build_sitemap.py
 python3 scripts/check_data.py
 ```
 
+### 5) Check internal docs links
+
+```bash
+node scripts/check_docs_links.mjs
+```
+
 ## Notes
 - This repo is **link-out only** (we do not host PDFs).
 - The site is served from `main:/docs` via GitHub Pages.
