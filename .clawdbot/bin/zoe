@@ -1,0 +1,237 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Minimal Zoe-style orchestrator CLI (v1)
+
+DIR="$(cd "$(dirname "$0")" && pwd)"
+source "${DIR}/../lib.sh"
+
+need_bin git
+need_bin tmux
+need_bin jq
+
+usage() {
+  cat <<'EOF'
+Usage:
+  .clawdbot/bin/zoe task:new --id <id> --agent codex|claude --branch <branch> --worktree <path> --desc <text> [--prompt-file <file>] [--notify]
+  .clawdbot/bin/zoe task:steer --id <id> --text <message>
+  .clawdbot/bin/zoe task:show --id <id>
+  .clawdbot/bin/zoe task:list
+  .clawdbot/bin/zoe task:cleanup --id <id> [--keep-worktree]
+
+  .clawdbot/bin/zoe issues:scan [--limit 20]
+EOF
+}
+
+cmd=${1:-}
+shift || true
+
+require_repo_root
+
+case "$cmd" in
+  task:new)
+    id=""; agent=""; branch=""; worktree=""; desc=""; prompt_file=""; notify="false"
+    while [ $# -gt 0 ]; do
+      case "$1" in
+        --id) id="$2"; shift 2;;
+        --agent) agent="$2"; shift 2;;
+        --branch) branch="$2"; shift 2;;
+        --worktree) worktree="$2"; shift 2;;
+        --desc) desc="$2"; shift 2;;
+        --prompt-file) prompt_file="$2"; shift 2;;
+        --notify) notify="true"; shift 1;;
+        *) echo "Unknown arg: $1" >&2; usage; exit 2;;
+      esac
+    done
+
+    [ -n "$id" ] && [ -n "$agent" ] && [ -n "$branch" ] && [ -n "$worktree" ] && [ -n "$desc" ] || { usage; exit 2; }
+    if [ "$agent" != "codex" ] && [ "$agent" != "claude" ]; then
+      echo "agent must be codex or claude" >&2
+      exit 2
+    fi
+
+    prefix=$(jq -r '.tmux.session_prefix' "${REPO_ROOT}/.clawdbot/config.json" 2>/dev/null || echo "zoe")
+    tmux_session="${prefix}-${agent}-${id}"
+
+    mkdir -p "$(dirname "$worktree")"
+
+    # Create worktree if missing
+    if [ ! -d "$worktree" ]; then
+      git fetch origin main >/dev/null 2>&1 || true
+      git worktree add "$worktree" -b "$branch" origin/main
+    fi
+
+    # Build agent command using native CLIs (per your setup).
+    # Config lives in .clawdbot/config.json
+    cfg_file="${REPO_ROOT}/.clawdbot/config.json"
+    if [ ! -f "$cfg_file" ]; then
+      echo "Missing config: $cfg_file" >&2
+      exit 2
+    fi
+
+    prompt_path="$(realpath "$prompt_file" 2>/dev/null || true)"
+    if [ -z "$prompt_path" ] || [ ! -f "$prompt_path" ]; then
+      echo "prompt file missing: $prompt_file" >&2
+      exit 2
+    fi
+
+    if [ "$agent" = "codex" ]; then
+      need_bin codex
+      model=$(jq -r '.codex.model' "$cfg_file")
+      effort=$(jq -r '.codex.reasoning_effort' "$cfg_file")
+      extra=$(jq -r '.codex.extra_flags[]?' "$cfg_file" | tr '\n' ' ')
+      agent_cmd="PROMPT_FILE=\"$prompt_path\"; prompt=\"\$(cat \"\$PROMPT_FILE\")\"; codex --model ${model} -c model_reasoning_effort=${effort} ${extra} \"\$prompt\""
+    else
+      need_bin claude
+      model=$(jq -r '.claude.model' "$cfg_file")
+      extra=$(jq -r '.claude.extra_flags[]?' "$cfg_file" | tr '\n' ' ')
+      agent_cmd="PROMPT_FILE=\"$prompt_path\"; prompt=\"\$(cat \"\$PROMPT_FILE\")\"; claude --model ${model} ${extra} -p \"\$prompt\""
+    fi
+
+    # Start tmux session (TTY-preserving) + enable logging via tmux pipe-pane.
+    log_file="${LOG_DIR}/${tmux_session}.log"
+    if safe_tmux_has_session "$tmux_session"; then
+      echo "tmux session already exists: $tmux_session" >&2
+    else
+      TERM=xterm-256color tmux new-session -d -s "$tmux_session" -c "$worktree" "bash -lc 'set -euo pipefail; echo [start] $(date -Is); ${agent_cmd}'"
+      # Append all pane output to log_file without breaking TTY.
+      TERM=xterm-256color tmux pipe-pane -o -t "${tmux_session}:0.0" "cat >>\"$log_file\""
+    fi
+
+    startedAt=$(now_ms)
+    obj=$(jq -n \
+      --arg id "$id" \
+      --arg tmuxSession "$tmux_session" \
+      --arg agent "$agent" \
+      --arg description "$desc" \
+      --arg repo "$(basename "$REPO_ROOT")" \
+      --arg worktree "$worktree" \
+      --arg branch "$branch" \
+      --argjson startedAt "$startedAt" \
+      --arg status "running" \
+      --argjson notifyOnComplete "$notify" \
+      '{id:$id, tmuxSession:$tmuxSession, agent:$agent, description:$description, repo:$repo, worktree:$worktree, branch:$branch, startedAt:$startedAt, status:$status, notifyOnComplete:$notifyOnComplete}'
+    )
+
+    registry_upsert "$obj"
+    echo "$obj" | jq
+    ;;
+
+  task:steer)
+    id=""; text=""
+    while [ $# -gt 0 ]; do
+      case "$1" in
+        --id) id="$2"; shift 2;;
+        --text) text="$2"; shift 2;;
+        *) echo "Unknown arg: $1" >&2; usage; exit 2;;
+      esac
+    done
+    [ -n "$id" ] && [ -n "$text" ] || { usage; exit 2; }
+
+    task=$(registry_get_by_id "$id" || true)
+    if [ -z "$task" ]; then
+      echo "No task found with id=$id" >&2
+      exit 2
+    fi
+    session=$(echo "$task" | jq -r '.tmuxSession')
+    safe_tmux_has_session "$session" || { echo "tmux session not running: $session" >&2; exit 2; }
+
+    # Send safely: text then Enter
+    tmux send-keys -t "$session" -l -- "$text"
+    sleep 0.1
+    tmux send-keys -t "$session" Enter
+
+    echo "steered $session" >&2
+    ;;
+
+  task:show)
+    id=""
+    while [ $# -gt 0 ]; do
+      case "$1" in
+        --id) id="$2"; shift 2;;
+        *) echo "Unknown arg: $1" >&2; usage; exit 2;;
+      esac
+    done
+    [ -n "$id" ] || { usage; exit 2; }
+    registry_get_by_id "$id" | jq
+    ;;
+
+  task:list)
+    registry_read | jq
+    ;;
+
+  task:cleanup)
+    id=""; keep_worktree="false"
+    while [ $# -gt 0 ]; do
+      case "$1" in
+        --id) id="$2"; shift 2;;
+        --keep-worktree) keep_worktree="true"; shift 1;;
+        *) echo "Unknown arg: $1" >&2; usage; exit 2;;
+      esac
+    done
+    [ -n "$id" ] || { usage; exit 2; }
+
+    task=$(registry_get_by_id "$id" || true)
+    if [ -z "$task" ]; then
+      echo "No task found with id=$id" >&2
+      exit 2
+    fi
+
+    session=$(echo "$task" | jq -r '.tmuxSession')
+    worktree=$(echo "$task" | jq -r '.worktree')
+
+    # Kill tmux session if present
+    if safe_tmux_has_session "$session"; then
+      tmux kill-session -t "$session" || true
+    fi
+
+    # Remove worktree (default) to clean up old branches/dirs
+    if [ "$keep_worktree" != "true" ]; then
+      if [ -n "$worktree" ] && [ -d "$worktree" ]; then
+        git worktree remove --force "$worktree" 2>/dev/null || rm -rf "$worktree"
+      fi
+      git worktree prune >/dev/null 2>&1 || true
+    fi
+
+    registry_remove_by_id "$id"
+    echo "cleaned $id" >&2
+    ;;
+
+  issues:scan)
+    need_bin gh
+    limit=20
+    while [ $# -gt 0 ]; do
+      case "$1" in
+        --limit) limit="$2"; shift 2;;
+        *) echo "Unknown arg: $1" >&2; usage; exit 2;;
+      esac
+    done
+
+    # Fetch open issues (no labels filtering) and store snapshot for diffing.
+    issues_json=$(gh issue list --state open --limit "$limit" --json number,title,url,createdAt,updatedAt)
+    snapshot_file="${CLAWDBOT_DIR}/last-issues.json"
+    prev_file="${CLAWDBOT_DIR}/prev-issues.json"
+
+    if [ -f "$snapshot_file" ]; then
+      cp "$snapshot_file" "$prev_file"
+    fi
+    echo "$issues_json" > "$snapshot_file"
+
+    echo "$issues_json" | jq -r '(
+      ["#","Title"],
+      (.[] | [(.number|tostring), .title])
+    ) | @tsv' \
+      | column -t -s $'\t'
+
+    ;;
+
+  ""|help|-h|--help)
+    usage
+    ;;
+
+  *)
+    echo "Unknown command: $cmd" >&2
+    usage
+    exit 2
+    ;;
+esac
