@@ -31,7 +31,6 @@ def write_subject(level: str, subject: str, years):
   <title>Primary {n} {subject} Papers (Free Download) — SG Primary Papers</title>
   <meta name="description" content="Browse Singapore Primary {n} {subject} papers. Filter by year, assessment type and school." />
   <link rel="stylesheet" href="../styles.css" />
-  <script defer src="https://analytics.millisecondlabs.com/script.js" data-website-id="620b5939-4f56-49f3-9eac-0141f805d3a5"></script>
 </head>
 <body>
   <div class="container">

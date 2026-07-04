@@ -33,7 +33,6 @@ def write_page(level, subject, year):
   <title>Primary {level[1:]} {subject} {year} Papers — SG Primary Papers</title>
   <meta name="description" content="Browse Primary {level[1:]} {subject} papers for {year} by assessment type and school." />
   <link rel="stylesheet" href="../../../styles.css" />
-  <script defer src="https://analytics.millisecondlabs.com/script.js" data-website-id="620b5939-4f56-49f3-9eac-0141f805d3a5"></script>
 </head>
 <body>
   <div class="container">

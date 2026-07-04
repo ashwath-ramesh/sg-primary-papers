@@ -83,7 +83,6 @@ def write_page(level: str, subject: str, intent_key: str, years):
   <title>{title}</title>
   <meta name="description" content="{desc}" />
   <link rel="stylesheet" href="{css}" />
-  <script defer src="https://analytics.millisecondlabs.com/script.js" data-website-id="620b5939-4f56-49f3-9eac-0141f805d3a5"></script>
 </head>
 <body>
   <div class="container">

@@ -18,7 +18,6 @@ TEMPLATE = '''<!doctype html>
   <title>{title}</title>
   <meta name="description" content="{desc}" />
   <link rel="stylesheet" href="../styles.css" />
-  <script defer src="https://analytics.millisecondlabs.com/script.js" data-website-id="620b5939-4f56-49f3-9eac-0141f805d3a5"></script>
 </head>
 <body>
   <div class="container">
