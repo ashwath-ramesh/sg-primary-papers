@@ -1,0 +1,4 @@
+# Third-party Python packages for data/SEO scripts only.
+# Not needed for serving the static site.
+requests
+google-auth-oauthlib

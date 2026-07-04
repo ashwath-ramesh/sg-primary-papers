@@ -2,8 +2,10 @@
 
 These scripts support the static build for GitHub Pages.
 
-## Prereqs
-- Python 3 (already available)
+## Requirements
+- Python >= 3.9 (`zoneinfo`)
+- Node 20 (matches CI link checker)
+- Optional network scripts: `pip install -r scripts/requirements.txt`
 
 ## Data files
 - `docs/data/papers.p1.json`
