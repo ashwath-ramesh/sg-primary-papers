@@ -1,6 +1,6 @@
 # Scripts
 
-These scripts support the static build for GitHub Pages.
+These scripts support the static site build (deployed via Docker/Dokploy).
 
 ## Requirements
 - Python >= 3.9 (`zoneinfo`)
